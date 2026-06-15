@@ -1,0 +1,331 @@
+{
+    "id": "v090",
+    "internalId": "87fa04cd-6c64-4f39-bc60-332524eadb1d",
+    "createdAt": "2026-02-12T09:44:44.542Z",
+    "updatedAt": "2026-04-28T16:02:34.484Z",
+    "status": {
+        "code": "PUBLISHED",
+        "name": "Published"
+    },
+    "assessmentType": {
+        "code": "VAN_SAFETY",
+        "name": "Van Safety"
+    },
+    "assessmentDiagrams": [],
+    "publicationDate": "2025-05-01",
+    "publicationYear": "2025",
+    "ratingYear": 2025,
+    "SPRefNumber": "v090",
+    "umbracoRefNumber": null,
+    "rescueSheetURL": null,
+    "greenNcapURL": null,
+    "frontalImageURL": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__181f36eef024543a_original.png",
+    "frontalImage": {
+        "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__181f36eef024543a_original.png",
+        "altText": null,
+        "width": 1144,
+        "height": 760,
+        "formats": {
+            "large": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__7c9de2a2bb3d5afc_lg.webp",
+                "width": 1144,
+                "height": 760
+            },
+            "small": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__28e3623aa5a30606_sm.webp",
+                "width": 320,
+                "height": 213
+            },
+            "medium": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__f3121d3aaef807fe_md.webp",
+                "width": 768,
+                "height": 510
+            },
+            "xlarge": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__7c9de2a2bb3d5afc_xl.webp",
+                "width": 1144,
+                "height": 760
+            },
+            "thumbnail": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__ad19f0153c81743f_thumb.webp",
+                "width": 156,
+                "height": 104
+            }
+        }
+    },
+    "newsMarketURL": "https://news.euroncap.com/safertrucksandvans/choose-a-vehicle/ford-transit-connect-euro-ncap-2025-commercial-van-safety-5-stars/s/e01b66da-6ce9-4bad-b49b-c0492e2cb26c",
+    "resultApplicability": "3rd generation, from week 25 2024",
+    "comments": "<p>The van tested was the Volkswagen Caddy Cargo, to which the Ford Transit Connect is twin. The result applies to vehicles produced from calendar week 25 of 2024 and includes software upgrades in line with new legislation. A five-star rating is well-deserved and reflects Ford’s policy of keeping their models up-to-date when it comes to safety. The autonomous emergency braking (AEB) system uses camera and radar fusion technology to detect other vehicles and vulnerable road users such as pedestrians and cyclists. Performance is generally good when approaching a stationary vehicle, but tails off for the forward-collision warning at higher test speeds. Performance is better against a slower-moving vehicle. The system performs equally well whether the target vehicle is straight in front of it or offset to one side or the other, but the system does not react in scenarios where a vehicle turns across the path of the approaching van. With a pedestrian target, the system performs well in all scenarios, including those done in night-time conditions, but does not detect people behind the van when it is reversing. The Transit Connect also performs well in most of the test scenarios involving a cyclist, including those where the van is approaching a person cycling along the roadside. <p><p>The lane support system includes lane departure warning, which signals to the driver when the van is drifting out of lane, and emergency lane keeping, which intervenes more aggressively in certain critical situations to prevent the van from leaving the road. The system performed well and includes blind spot monitoring to help the driver not pull out in front of an overtaking vehicle. <p><p>The Transit Connect has a driver set speed limiter, accurate to within 5&nbsp;km/h, as standard. A speed limit information system informs the driver about the local speed limit, allowing the limiter to be set appropriately. <p><p>A seatbelt reminder is standard for the driver and front passenger seat, and the Transit Connect recognises steering behaviour which is characteristic of fatigued driving, alerting the driver to the need for a break. <p><p>",
+    "testedHandOfDrive": null,
+    "assessmentTags": [],
+    "assessmentData": {
+        "vanSafety": {
+            "testedModelName": "VW Caddy Cargo Commerce TDI, LHD",
+            "nicePublicationDate": "May 2025",
+            "safetyPerformance": {
+                "starRating": 5,
+                "safeDriving": {
+                    "normalisedScore": 72,
+                    "occupantMonitoring": {
+                        "score": 25,
+                        "maxScore": 25,
+                        "seatbeltUsage": {
+                            "score": 25,
+                            "maxScore": 25,
+                            "verdict": "GREEN"
+                        }
+                    },
+                    "driverEngagement": {
+                        "score": 25,
+                        "maxScore": 25,
+                        "driverMonitoring": {
+                            "score": 25,
+                            "maxScore": 25,
+                            "verdict": "GREEN"
+                        }
+                    },
+                    "vehicleAssistance": {
+                        "score": 21.8,
+                        "maxScore": 50,
+                        "speedAssistance": {
+                            "score": 21.8,
+                            "maxScore": 30,
+                            "verdict": "YELLOW"
+                        },
+                        "adaptiveCruiseControl": {
+                            "score": 0,
+                            "maxScore": 15,
+                            "verdict": "GREY"
+                        },
+                        "steeringAssistance": {
+                            "score": 0,
+                            "maxScore": 5,
+                            "verdict": "GREY"
+                        }
+                    }
+                },
+                "crashAvoidance": {
+                    "normalisedScore": 76,
+                    "frontalCollisions": {
+                        "score": 50.7,
+                        "maxScore": 65,
+                        "car": {
+                            "score": 34.2,
+                            "maxScore": 40,
+                            "verdict": "GREEN"
+                        },
+                        "pedestrianAndCyclist": {
+                            "score": 16.5,
+                            "maxScore": 25,
+                            "verdict": "YELLOW"
+                        }
+                    },
+                    "laneDepartureCollisions": {
+                        "score": 25,
+                        "maxScore": 25,
+                        "laneDeparture": {
+                            "score": 15,
+                            "maxScore": 15,
+                            "verdict": "GREEN"
+                        },
+                        "car": {
+                            "score": 10,
+                            "maxScore": 10,
+                            "verdict": "GREEN"
+                        }
+                    },
+                    "lowSpeedCollisions": {
+                        "score": 0,
+                        "maxScore": 10,
+                        "pedestrian": {
+                            "score": 0,
+                            "maxScore": 10,
+                            "verdict": "GREY"
+                        }
+                    }
+                },
+                "postCrashSafety": {
+                    "normalisedScore": 80,
+                    "rescueInformation": {
+                        "score": 80,
+                        "maxScore": 90,
+                        "rescueSheet": {
+                            "score": 80,
+                            "maxScore": 90,
+                            "verdict": "GREEN"
+                        }
+                    },
+                    "postCrashIntervention": {
+                        "score": 0,
+                        "maxScore": 5,
+                        "advancedECall": {
+                            "score": 0,
+                            "maxScore": 5,
+                            "verdict": "GREY"
+                        }
+                    },
+                    "vehicleExtrication": {
+                        "score": 0,
+                        "maxScore": 5,
+                        "occupantExtrication": {
+                            "score": 0,
+                            "maxScore": 5,
+                            "verdict": "GREY"
+                        }
+                    }
+                }
+            },
+            "safetyEquipment": {
+                "safeDriving": {
+                    "seatBeltReminderDriver": "FITTED_STANDARD",
+                    "seatBeltReminderPassenger": "FITTED_STANDARD",
+                    "driverMonitoring": "FITTED_STANDARD",
+                    "speedAssistance": "FITTED_STANDARD",
+                    "adaptiveCruiseControl": "FITTED_STANDARD",
+                    "steeringAssistance": "NOT_AVAILABLE"
+                },
+                "crashAvoidance": {
+                    "carAEB": "FITTED_STANDARD",
+                    "pedestrianAndCyclistAEB": "FITTED_STANDARD",
+                    "laneSupportSystems": "FITTED_STANDARD"
+                }
+            }
+        }
+    },
+    "carSafety": null,
+    "carAssistedDriving": null,
+    "truckSafety": null,
+    "vanSafety": {
+        "safetyRatingStars": 5,
+        "assessmentReviews": []
+    },
+    "model": {
+        "id": "b618a2ea-7178-4c4c-96ab-26d09e675739",
+        "createdAt": "2026-01-21T19:16:28.408025+00:00",
+        "updatedAt": "2026-01-21T19:16:28.408025+00:00",
+        "code": "FORD_TRANSIT_CONNECT",
+        "name": "Transit Connect",
+        "class": {
+            "code": "SMALL_PANEL_VAN",
+            "name": "Small Panel Van"
+        },
+        "vehicleType": {
+            "code": "VAN",
+            "name": "Van"
+        }
+    },
+    "make": {
+        "id": "2212c0aa-ce25-4e67-9a6c-d0557d419401",
+        "createdAt": "2026-01-21T19:13:48.479667+00:00",
+        "updatedAt": "2026-03-19T12:55:56.343955+00:00",
+        "code": "FOR",
+        "name": "Ford",
+        "logoPath": "https://data-cdn.euroncap.com/media/make-logo/FOR_logo__b92829302d845e60_original.svg",
+        "negLogoPath": "https://data-cdn.euroncap.com/media/make-logo/FOR_negLogo__5951709460bc1887_original.svg",
+        "logo": {
+            "url": "https://data-cdn.euroncap.com/media/make-logo/FOR_logo__b92829302d845e60_original.svg",
+            "width": null,
+            "height": null,
+            "formats": null
+        },
+        "negativeLogo": {
+            "url": "https://data-cdn.euroncap.com/media/make-logo/FOR_negLogo__5951709460bc1887_original.svg",
+            "width": null,
+            "height": null,
+            "formats": null
+        }
+    },
+    "assessmentMedia": [
+        {
+            "id": "1bfe167c-a917-46d1-a639-1746c6397d79",
+            "createdAt": "2026-03-24T10:22:43.771253+00:00",
+            "updatedAt": "2026-04-28T16:03:08.649523+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__181f36eef024543a_original.png",
+            "altText": null,
+            "sortOrder": 0,
+            "width": 1144,
+            "height": 760,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__7c9de2a2bb3d5afc_lg.webp",
+                    "width": 1144,
+                    "height": 760
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__28e3623aa5a30606_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__f3121d3aaef807fe_md.webp",
+                    "width": 768,
+                    "height": 510
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__7c9de2a2bb3d5afc_xl.webp",
+                    "width": 1144,
+                    "height": 760
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/87fa04cd-6c64-4f39-bc60-332524eadb1d/ford-transit-connect-2025-v090__ad19f0153c81743f_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        }
+    ],
+    "protocol": {
+        "id": "99ac8ea3-ff6b-4a48-b76b-449421c3e22a",
+        "createdAt": "2026-01-21T19:24:55.565713+00:00",
+        "updatedAt": "2026-01-21T19:24:55.565713+00:00",
+        "protocolYear": 2025
+    },
+    "variants": [
+        {
+            "id": "1ffa18ea-4bf5-49b5-9443-ded6aaf62616",
+            "isTestedVariant": true,
+            "ratingAppliesToVariant": true,
+            "ratingAppliesToLHD": null,
+            "ratingAppliesToRHD": null,
+            "genericVariantData": {
+                "id": "05828d9e-5643-4c97-9f6e-9f52b9841cad",
+                "createdAt": "2026-02-17T06:42:09.174963+00:00",
+                "updatedAt": "2026-03-03T14:09:53.001408+00:00",
+                "variantName": "Ford Transit Connect",
+                "sectorType": null,
+                "bodyType": null,
+                "numberOfDoors": 2,
+                "chassisHeight": null,
+                "chassisWheelbase": null,
+                "motorType": null,
+                "powerTrainType": null,
+                "engineType": null,
+                "fuelType": null,
+                "powerOutput": null,
+                "fuelCapacity": null,
+                "batteryCapacity": null,
+                "testWeight": {
+                    "value": 1973,
+                    "unit": "KG"
+                },
+                "kerbWeight": {
+                    "value": 1538,
+                    "unit": "KG"
+                },
+                "payload": {
+                    "value": 612,
+                    "unit": "KG"
+                },
+                "trailerType": null,
+                "trailerAxles": null,
+                "priceRange": 0,
+                "vehicleCategory": {
+                    "code": "N1",
+                    "name": "N1"
+                },
+                "seatArrangement": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,3992 @@
+[
+  {
+    "assessmentId": "h032",
+    "make": "DAF",
+    "model": "XD",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h032"
+  },
+  {
+    "assessmentId": "h039",
+    "make": "Ford",
+    "model": "F-MAX",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h039"
+  },
+  {
+    "assessmentId": "h031",
+    "make": "IVECO",
+    "model": "S-WAY",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h031"
+  },
+  {
+    "assessmentId": "h025",
+    "make": "IVECO",
+    "model": "S-WAY",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h025"
+  },
+  {
+    "assessmentId": "h034",
+    "make": "MAN",
+    "model": "TGM",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h034"
+  },
+  {
+    "assessmentId": "h035",
+    "make": "Mercedes-Benz",
+    "model": "Actros",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h035"
+  },
+  {
+    "assessmentId": "h036",
+    "make": "Renault Trucks",
+    "model": "D Medium",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h036"
+  },
+  {
+    "assessmentId": "h054",
+    "make": "Scania",
+    "model": "P-series",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h054"
+  },
+  {
+    "assessmentId": "h043",
+    "make": "Scania",
+    "model": "L-series",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h043"
+  },
+  {
+    "assessmentId": "h037",
+    "make": "Scania",
+    "model": "P-series",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h037"
+  },
+  {
+    "assessmentId": "h042",
+    "make": "Scania",
+    "model": "L-series",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h042"
+  },
+  {
+    "assessmentId": "h050",
+    "make": "Volvo",
+    "model": "FH",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h050"
+  },
+  {
+    "assessmentId": "h051",
+    "make": "Volvo",
+    "model": "FH",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h051"
+  },
+  {
+    "assessmentId": "h038",
+    "make": "Volvo",
+    "model": "FM",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h038"
+  },
+  {
+    "assessmentId": "1169",
+    "make": "AION",
+    "model": "V",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1169"
+  },
+  {
+    "assessmentId": "1130",
+    "make": "Alpine",
+    "model": "A390",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1130"
+  },
+  {
+    "assessmentId": "1182",
+    "make": "Audi",
+    "model": "Q4 e-tron",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1182"
+  },
+  {
+    "assessmentId": "1106",
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1106"
+  },
+  {
+    "assessmentId": "1149",
+    "make": "Audi",
+    "model": "A3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1149"
+  },
+  {
+    "assessmentId": "1138",
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1138"
+  },
+  {
+    "assessmentId": "1138",
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1138"
+  },
+  {
+    "assessmentId": "1126",
+    "make": "BMW",
+    "model": "X3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1126"
+  },
+  {
+    "assessmentId": "1146",
+    "make": "BMW",
+    "model": "2 Series Gran Coupe",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1146"
+  },
+  {
+    "assessmentId": "1125",
+    "make": "BMW",
+    "model": "1 Series",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1125"
+  },
+  {
+    "assessmentId": "a032",
+    "make": "BYD",
+    "model": "ATTO 3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a032"
+  },
+  {
+    "assessmentId": "1210",
+    "make": "BYD",
+    "model": "SEAL 6",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1210"
+  },
+  {
+    "assessmentId": "a033",
+    "make": "BYD",
+    "model": "ATTO 3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a033"
+  },
+  {
+    "assessmentId": "v125",
+    "make": "BYD",
+    "model": "E-VALI",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v125"
+  },
+  {
+    "assessmentId": "1117",
+    "make": "BYD",
+    "model": "SEALION 7",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1117"
+  },
+  {
+    "assessmentId": "1209",
+    "make": "BYD",
+    "model": "DOLPHIN SURF",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1209"
+  },
+  {
+    "assessmentId": "1129",
+    "make": "Cadillac",
+    "model": "OPTIQ",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1129"
+  },
+  {
+    "assessmentId": "1190",
+    "make": "CHERY",
+    "model": "TIGGO 8",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1190"
+  },
+  {
+    "assessmentId": "1222ra",
+    "make": "CHERY",
+    "model": "TIGGO 7",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1222ra"
+  },
+  {
+    "assessmentId": "1223ra",
+    "make": "CHERY",
+    "model": "TIGGO 8",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1223ra"
+  },
+  {
+    "assessmentId": "1172",
+    "make": "CHERY",
+    "model": "TIGGO 7",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1172"
+  },
+  {
+    "assessmentId": "1224",
+    "make": "CHERY",
+    "model": "TIGGO 4",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1224"
+  },
+  {
+    "assessmentId": "v053",
+    "make": "Citroën",
+    "model": "Berlingo",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v053"
+  },
+  {
+    "assessmentId": "v085",
+    "make": "Citroën",
+    "model": "Jumpy",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v085"
+  },
+  {
+    "assessmentId": "v084",
+    "make": "Citroën",
+    "model": "Jumper",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v084"
+  },
+  {
+    "assessmentId": "1195",
+    "make": "Citroën",
+    "model": "C5 Aircross",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1195"
+  },
+  {
+    "assessmentId": "1122",
+    "make": "CUPRA",
+    "model": "Leon",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1122"
+  },
+  {
+    "assessmentId": "1107",
+    "make": "CUPRA",
+    "model": "TERRAMAR",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1107"
+  },
+  {
+    "assessmentId": "1119",
+    "make": "CUPRA",
+    "model": "BORN",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1119"
+  },
+  {
+    "assessmentId": "1120",
+    "make": "CUPRA",
+    "model": "Formentor",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1120"
+  },
+  {
+    "assessmentId": "h024",
+    "make": "DAF",
+    "model": "XF",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h024"
+  },
+  {
+    "assessmentId": "1162",
+    "make": "Deepal",
+    "model": "S05",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1162"
+  },
+  {
+    "assessmentId": "1175",
+    "make": "Dongfeng",
+    "model": "BOX",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1175"
+  },
+  {
+    "assessmentId": "1225",
+    "make": "DS",
+    "model": "N°7",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1225"
+  },
+  {
+    "assessmentId": "1213",
+    "make": "DS",
+    "model": "N°8",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1213"
+  },
+  {
+    "assessmentId": "1197",
+    "make": "EBRO",
+    "model": "s800",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1197"
+  },
+  {
+    "assessmentId": "1216",
+    "make": "EBRO",
+    "model": "s400",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1216"
+  },
+  {
+    "assessmentId": "1173",
+    "make": "EBRO",
+    "model": "s700",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1173"
+  },
+  {
+    "assessmentId": "1194",
+    "make": "EXLANTIX",
+    "model": "ET",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1194"
+  },
+  {
+    "assessmentId": "1193",
+    "make": "EXLANTIX",
+    "model": "ES",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1193"
+  },
+  {
+    "assessmentId": "v093",
+    "make": "Farizon",
+    "model": "SV",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v093"
+  },
+  {
+    "assessmentId": "v088",
+    "make": "FIAT",
+    "model": "Scudo",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v088"
+  },
+  {
+    "assessmentId": "v086",
+    "make": "FIAT",
+    "model": "Doblo",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v086"
+  },
+  {
+    "assessmentId": "v087",
+    "make": "FIAT",
+    "model": "Ducato",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v087"
+  },
+  {
+    "assessmentId": "1151",
+    "make": "firefly",
+    "model": "firefly",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1151"
+  },
+  {
+    "assessmentId": "1177",
+    "make": "Ford",
+    "model": "Tourneo Courier",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1177"
+  },
+  {
+    "assessmentId": "v092",
+    "make": "Ford",
+    "model": "Transit Custom",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v092"
+  },
+  {
+    "assessmentId": "v090",
+    "make": "Ford",
+    "model": "Transit Connect",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v090"
+  },
+  {
+    "assessmentId": "v091",
+    "make": "Ford",
+    "model": "Transit Courier",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v091"
+  },
+  {
+    "assessmentId": "1019pm",
+    "make": "Ford",
+    "model": "Tourneo Custom",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1019pm"
+  },
+  {
+    "assessmentId": "1177",
+    "make": "Ford",
+    "model": "Tourneo Courier",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1177"
+  },
+  {
+    "assessmentId": "1136",
+    "make": "GEELY",
+    "model": "EX5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1136"
+  },
+  {
+    "assessmentId": "1211",
+    "make": "GEELY",
+    "model": "STARRAY EM-i",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1211"
+  },
+  {
+    "assessmentId": "1090",
+    "make": "Hongqi",
+    "model": "E-HS9",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1090"
+  },
+  {
+    "assessmentId": "1219",
+    "make": "Hongqi",
+    "model": "EHS7",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1219"
+  },
+  {
+    "assessmentId": "1199",
+    "make": "Hongqi",
+    "model": "EHS5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1199"
+  },
+  {
+    "assessmentId": "1157",
+    "make": "Hyundai",
+    "model": "IONIQ 9",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1157"
+  },
+  {
+    "assessmentId": "1200",
+    "make": "Hyundai",
+    "model": "INSTER",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1200"
+  },
+  {
+    "assessmentId": "1147",
+    "make": "Hyundai",
+    "model": "NEXO",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1147"
+  },
+  {
+    "assessmentId": "1153",
+    "make": "IM",
+    "model": "IM5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1153"
+  },
+  {
+    "assessmentId": "1154",
+    "make": "IM",
+    "model": "IM6",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1154"
+  },
+  {
+    "assessmentId": "v117",
+    "make": "IVECO",
+    "model": "Daily",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v117"
+  },
+  {
+    "assessmentId": "v057",
+    "make": "IVECO",
+    "model": "Daily",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v057"
+  },
+  {
+    "assessmentId": "1097",
+    "make": "JAECOO",
+    "model": "7 PHEV",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1097"
+  },
+  {
+    "assessmentId": "1218",
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1218"
+  },
+  {
+    "assessmentId": "1168sp",
+    "make": "Kia",
+    "model": "EV4",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1168sp"
+  },
+  {
+    "assessmentId": "v122",
+    "make": "Kia",
+    "model": "PV5 Cargo",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v122"
+  },
+  {
+    "assessmentId": "1158",
+    "make": "Kia",
+    "model": "EV5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1158"
+  },
+  {
+    "assessmentId": "1168",
+    "make": "Kia",
+    "model": "EV4",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1168"
+  },
+  {
+    "assessmentId": "1111",
+    "make": "Kia",
+    "model": "EV3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1111"
+  },
+  {
+    "assessmentId": "1111sp",
+    "make": "Kia",
+    "model": "EV3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1111sp"
+  },
+  {
+    "assessmentId": "1159",
+    "make": "Kia",
+    "model": "PV5 Passenger",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1159"
+  },
+  {
+    "assessmentId": "1168sp",
+    "make": "Kia",
+    "model": "EV4",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1168sp"
+  },
+  {
+    "assessmentId": "1217",
+    "make": "Leapmotor",
+    "model": "B10",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1217"
+  },
+  {
+    "assessmentId": "1179",
+    "make": "Lucid",
+    "model": "Gravity",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1179"
+  },
+  {
+    "assessmentId": "1166",
+    "make": "Lynk & Co",
+    "model": "2",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1166"
+  },
+  {
+    "assessmentId": "1167",
+    "make": "Lynk & Co",
+    "model": "8",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1167"
+  },
+  {
+    "assessmentId": "h023",
+    "make": "MAN",
+    "model": "TGX",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h023"
+  },
+  {
+    "assessmentId": "v047ra",
+    "make": "Maxus",
+    "model": "eDELIVER 7",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v047ra"
+  },
+  {
+    "assessmentId": "v022",
+    "make": "Maxus",
+    "model": "eDELIVER 9",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v022"
+  },
+  {
+    "assessmentId": "v056",
+    "make": "Maxus",
+    "model": "eDELIVER 5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v056"
+  },
+  {
+    "assessmentId": "v022ra",
+    "make": "Maxus",
+    "model": "eDELIVER 9",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v022ra"
+  },
+  {
+    "assessmentId": "v047",
+    "make": "Maxus",
+    "model": "eDELIVER 7",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v047"
+  },
+  {
+    "assessmentId": "1204",
+    "make": "MAZDA",
+    "model": "CX-5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1204"
+  },
+  {
+    "assessmentId": "a027",
+    "make": "MAZDA",
+    "model": "CX-80",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a027"
+  },
+  {
+    "assessmentId": "1137",
+    "make": "MAZDA",
+    "model": "6e",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1137"
+  },
+  {
+    "assessmentId": "h045",
+    "make": "Mercedes-Benz",
+    "model": "Actros",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h045"
+  },
+  {
+    "assessmentId": "v100",
+    "make": "Mercedes-Benz",
+    "model": "Sprinter",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v100"
+  },
+  {
+    "assessmentId": "1108",
+    "make": "Mercedes-Benz",
+    "model": "CLA",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1108"
+  },
+  {
+    "assessmentId": "h047",
+    "make": "Mercedes-Benz",
+    "model": "Actros L",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h047"
+  },
+  {
+    "assessmentId": "h029",
+    "make": "Mercedes-Benz",
+    "model": "Actros F",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h029"
+  },
+  {
+    "assessmentId": "v099",
+    "make": "Mercedes-Benz",
+    "model": "Citan",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v099"
+  },
+  {
+    "assessmentId": "h046",
+    "make": "Mercedes-Benz",
+    "model": "Actros F",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h046"
+  },
+  {
+    "assessmentId": "v101",
+    "make": "Mercedes-Benz",
+    "model": "Vito",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v101"
+  },
+  {
+    "assessmentId": "1192",
+    "make": "Mercedes-Benz",
+    "model": "CLE Coupé",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1192"
+  },
+  {
+    "assessmentId": "h044",
+    "make": "Mercedes-Benz",
+    "model": "Actros",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h044"
+  },
+  {
+    "assessmentId": "h026",
+    "make": "Mercedes-Benz",
+    "model": "Actros L",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h026"
+  },
+  {
+    "assessmentId": "1109",
+    "make": "MG",
+    "model": "MGS5 EV",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1109"
+  },
+  {
+    "assessmentId": "1203",
+    "make": "MG",
+    "model": "MGS9 PHEV",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1203"
+  },
+  {
+    "assessmentId": "1057",
+    "make": "MG",
+    "model": "3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1057"
+  },
+  {
+    "assessmentId": "a029",
+    "make": "MG",
+    "model": "ZS",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a029"
+  },
+  {
+    "assessmentId": "1152",
+    "make": "MG",
+    "model": "MGS6 EV",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1152"
+  },
+  {
+    "assessmentId": "1156",
+    "make": "MG",
+    "model": "MG4 EV URBAN",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1156"
+  },
+  {
+    "assessmentId": "1066",
+    "make": "MINI",
+    "model": "Cooper E",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1066"
+  },
+  {
+    "assessmentId": "1124",
+    "make": "MINI",
+    "model": "Cooper",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1124"
+  },
+  {
+    "assessmentId": "1127",
+    "make": "MINI",
+    "model": "Aceman",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1127"
+  },
+  {
+    "assessmentId": "1133",
+    "make": "Mitsubishi",
+    "model": "Eclipse Cross",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1133"
+  },
+  {
+    "assessmentId": "1212",
+    "make": "Nissan",
+    "model": "Qashqai",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1212"
+  },
+  {
+    "assessmentId": "v102",
+    "make": "Nissan",
+    "model": "Interstar",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v102"
+  },
+  {
+    "assessmentId": "v104",
+    "make": "Nissan",
+    "model": "Townstar",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v104"
+  },
+  {
+    "assessmentId": "v103",
+    "make": "Nissan",
+    "model": "Primastar",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v103"
+  },
+  {
+    "assessmentId": "1183",
+    "make": "OMODA",
+    "model": "9",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1183"
+  },
+  {
+    "assessmentId": "v107",
+    "make": "Opel",
+    "model": "Vivaro",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v107"
+  },
+  {
+    "assessmentId": "1196",
+    "make": "Opel",
+    "model": "Grandland",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1196"
+  },
+  {
+    "assessmentId": "v105",
+    "make": "Opel",
+    "model": "Combo",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v105"
+  },
+  {
+    "assessmentId": "v106",
+    "make": "Opel",
+    "model": "Movano",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v106"
+  },
+  {
+    "assessmentId": "1141",
+    "make": "Peugeot",
+    "model": "3008",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1141"
+  },
+  {
+    "assessmentId": "v108",
+    "make": "Peugeot",
+    "model": "Boxer",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v108"
+  },
+  {
+    "assessmentId": "1191",
+    "make": "Peugeot",
+    "model": "5008",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1191"
+  },
+  {
+    "assessmentId": "v110",
+    "make": "Peugeot",
+    "model": "Partner",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v110"
+  },
+  {
+    "assessmentId": "v109",
+    "make": "Peugeot",
+    "model": "Expert",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v109"
+  },
+  {
+    "assessmentId": "1145",
+    "make": "Polestar",
+    "model": "4",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1145"
+  },
+  {
+    "assessmentId": "1118",
+    "make": "Polestar",
+    "model": "3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1118"
+  },
+  {
+    "assessmentId": "a028",
+    "make": "Porsche",
+    "model": "Macan",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a028"
+  },
+  {
+    "assessmentId": "1201",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1201"
+  },
+  {
+    "assessmentId": "v113",
+    "make": "Renault",
+    "model": "Trafic",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v113"
+  },
+  {
+    "assessmentId": "v111",
+    "make": "Renault",
+    "model": "Kangoo Van",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v111"
+  },
+  {
+    "assessmentId": "1189",
+    "make": "Renault",
+    "model": "Clio",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1189"
+  },
+  {
+    "assessmentId": "a025",
+    "make": "Renault",
+    "model": "5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a025"
+  },
+  {
+    "assessmentId": "v113",
+    "make": "Renault",
+    "model": "Trafic",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v113"
+  },
+  {
+    "assessmentId": "h027",
+    "make": "Renault Trucks",
+    "model": "T",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h027"
+  },
+  {
+    "assessmentId": "h030",
+    "make": "Renault Trucks",
+    "model": "T",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h030"
+  },
+  {
+    "assessmentId": "h041",
+    "make": "Scania",
+    "model": "G-series",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h041"
+  },
+  {
+    "assessmentId": "h019",
+    "make": "Scania",
+    "model": "R-series",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h019"
+  },
+  {
+    "assessmentId": "h022",
+    "make": "Scania",
+    "model": "R-series",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h022"
+  },
+  {
+    "assessmentId": "1122pm",
+    "make": "SEAT",
+    "model": "Leon",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1122pm"
+  },
+  {
+    "assessmentId": "1128pm",
+    "make": "Škoda",
+    "model": "Enyaq",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1128pm"
+  },
+  {
+    "assessmentId": "1143",
+    "make": "Škoda",
+    "model": "Octavia",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1143"
+  },
+  {
+    "assessmentId": "1128",
+    "make": "Škoda",
+    "model": "Elroq",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1128"
+  },
+  {
+    "assessmentId": "1135",
+    "make": "smart",
+    "model": "#5",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1135"
+  },
+  {
+    "assessmentId": "1230",
+    "make": "Subaru",
+    "model": "Uncharted",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1230"
+  },
+  {
+    "assessmentId": "1163pm",
+    "make": "Subaru",
+    "model": "Solterra",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1163pm"
+  },
+  {
+    "assessmentId": "1228",
+    "make": "Subaru",
+    "model": "E-Outback",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1228"
+  },
+  {
+    "assessmentId": "1160",
+    "make": "Suzuki",
+    "model": "e VITARA",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1160"
+  },
+  {
+    "assessmentId": "1181",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1181"
+  },
+  {
+    "assessmentId": "1110",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1110"
+  },
+  {
+    "assessmentId": "1181",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1181"
+  },
+  {
+    "assessmentId": "1171",
+    "make": "Togg",
+    "model": "T10F",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1171"
+  },
+  {
+    "assessmentId": "1170",
+    "make": "Togg",
+    "model": "T10X",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1170"
+  },
+  {
+    "assessmentId": "1207",
+    "make": "Toyota",
+    "model": "Urban Cruiser",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1207"
+  },
+  {
+    "assessmentId": "v119",
+    "make": "Toyota",
+    "model": "Proace",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v119"
+  },
+  {
+    "assessmentId": "1164",
+    "make": "Toyota",
+    "model": "Yaris Cross",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1164"
+  },
+  {
+    "assessmentId": "v118",
+    "make": "Toyota",
+    "model": "Proace Max",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v118"
+  },
+  {
+    "assessmentId": "a030",
+    "make": "Toyota",
+    "model": "bZ4X",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a030"
+  },
+  {
+    "assessmentId": "1206",
+    "make": "Toyota",
+    "model": "C-HR+",
+    "year": "2026",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1206"
+  },
+  {
+    "assessmentId": "1174",
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1174"
+  },
+  {
+    "assessmentId": "1163",
+    "make": "Toyota",
+    "model": "bZ4X",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1163"
+  },
+  {
+    "assessmentId": "1165",
+    "make": "Toyota",
+    "model": "Aygo X",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1165"
+  },
+  {
+    "assessmentId": "v120",
+    "make": "Toyota",
+    "model": "Proace City",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v120"
+  },
+  {
+    "assessmentId": "1134",
+    "make": "Volkswagen",
+    "model": "T-Cross",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1134"
+  },
+  {
+    "assessmentId": "v115",
+    "make": "Volkswagen",
+    "model": "ID.Buzz Cargo",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v115"
+  },
+  {
+    "assessmentId": "v114",
+    "make": "Volkswagen",
+    "model": "Caddy Cargo",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v114"
+  },
+  {
+    "assessmentId": "1114",
+    "make": "Volkswagen",
+    "model": "T-Roc",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1114"
+  },
+  {
+    "assessmentId": "1116",
+    "make": "Volkswagen",
+    "model": "ID.4",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1116"
+  },
+  {
+    "assessmentId": "1185",
+    "make": "Volkswagen",
+    "model": "Caddy",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1185"
+  },
+  {
+    "assessmentId": "v116",
+    "make": "Volkswagen",
+    "model": "Transporter",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v116"
+  },
+  {
+    "assessmentId": "1115",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1115"
+  },
+  {
+    "assessmentId": "1186",
+    "make": "Volkswagen",
+    "model": "ID.Buzz",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1186"
+  },
+  {
+    "assessmentId": "1101",
+    "make": "Volkswagen",
+    "model": "ID.3",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1101"
+  },
+  {
+    "assessmentId": "1113",
+    "make": "Volkswagen",
+    "model": "Tayron",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1113"
+  },
+  {
+    "assessmentId": "1184",
+    "make": "Volkswagen",
+    "model": "Multivan",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1184"
+  },
+  {
+    "assessmentId": "v115",
+    "make": "Volkswagen",
+    "model": "ID.Buzz Cargo",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=v115"
+  },
+  {
+    "assessmentId": "a024",
+    "make": "Volvo",
+    "model": "EX30",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a024"
+  },
+  {
+    "assessmentId": "1180",
+    "make": "Volvo",
+    "model": "EX90",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1180"
+  },
+  {
+    "assessmentId": "h020",
+    "make": "Volvo",
+    "model": "FM",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h020"
+  },
+  {
+    "assessmentId": "h028",
+    "make": "Volvo",
+    "model": "FH Aero",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h028"
+  },
+  {
+    "assessmentId": "1112",
+    "make": "Voyah",
+    "model": "COURAGE",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1112"
+  },
+  {
+    "assessmentId": "a023",
+    "make": "XPENG",
+    "model": "G9",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a023"
+  },
+  {
+    "assessmentId": "1123",
+    "make": "ZEEKR",
+    "model": "7X",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1123"
+  },
+  {
+    "assessmentId": "1087",
+    "make": "Alpine",
+    "model": "A290",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1087"
+  },
+  {
+    "assessmentId": "1094",
+    "make": "Audi",
+    "model": "A5",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1094"
+  },
+  {
+    "assessmentId": "1056",
+    "make": "Audi",
+    "model": "Q6 e-tron",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1056"
+  },
+  {
+    "assessmentId": "1140",
+    "make": "Audi",
+    "model": "A6",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1140"
+  },
+  {
+    "assessmentId": "a020",
+    "make": "BMW",
+    "model": "5 Series",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a020"
+  },
+  {
+    "assessmentId": "a018",
+    "make": "BYD",
+    "model": "ATTO 3",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a018"
+  },
+  {
+    "assessmentId": "1099",
+    "make": "CUPRA",
+    "model": "Tavascan",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1099"
+  },
+  {
+    "assessmentId": "1075",
+    "make": "Dacia",
+    "model": "Duster",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1075"
+  },
+  {
+    "assessmentId": "1144",
+    "make": "Dacia",
+    "model": "Bigster",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1144"
+  },
+  {
+    "assessmentId": "h015",
+    "make": "DAF",
+    "model": "XF",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h015"
+  },
+  {
+    "assessmentId": "1079ra",
+    "make": "Deepal",
+    "model": "S07",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1079ra"
+  },
+  {
+    "assessmentId": "1079",
+    "make": "Deepal",
+    "model": "S07",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1079"
+  },
+  {
+    "assessmentId": "1019",
+    "make": "Ford",
+    "model": "Tourneo Custom",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1019"
+  },
+  {
+    "assessmentId": "1053",
+    "make": "Ford",
+    "model": "Tourneo Courier",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1053"
+  },
+  {
+    "assessmentId": "1084",
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1084"
+  },
+  {
+    "assessmentId": "1019sp",
+    "make": "Ford",
+    "model": "Tourneo Custom",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1019sp"
+  },
+  {
+    "assessmentId": "1085",
+    "make": "Ford",
+    "model": "Capri",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1085"
+  },
+  {
+    "assessmentId": "1050",
+    "make": "Honda",
+    "model": "CR-V",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1050"
+  },
+  {
+    "assessmentId": "1050sp",
+    "make": "Honda",
+    "model": "CR-V",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1050sp"
+  },
+  {
+    "assessmentId": "1078sp",
+    "make": "Hyundai",
+    "model": "SANTA FE",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1078sp"
+  },
+  {
+    "assessmentId": "1078",
+    "make": "Hyundai",
+    "model": "SANTA FE",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1078"
+  },
+  {
+    "assessmentId": "h012",
+    "make": "IVECO",
+    "model": "S-WAY",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h012"
+  },
+  {
+    "assessmentId": "1063",
+    "make": "Jeep",
+    "model": "Avenger",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1063"
+  },
+  {
+    "assessmentId": "1070",
+    "make": "Leapmotor",
+    "model": "C10",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1070"
+  },
+  {
+    "assessmentId": "1095",
+    "make": "Lexus",
+    "model": "LBX",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1095"
+  },
+  {
+    "assessmentId": "h013",
+    "make": "MAN",
+    "model": "TGX",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h013"
+  },
+  {
+    "assessmentId": "1060",
+    "make": "Maxus",
+    "model": "MIFA 7",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1060"
+  },
+  {
+    "assessmentId": "1060",
+    "make": "Maxus",
+    "model": "MIFA 7",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1060"
+  },
+  {
+    "assessmentId": "1100",
+    "make": "MAZDA",
+    "model": "CX-80",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1100"
+  },
+  {
+    "assessmentId": "1064",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1064"
+  },
+  {
+    "assessmentId": "a022",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a022"
+  },
+  {
+    "assessmentId": "h011",
+    "make": "Mercedes-Benz",
+    "model": "Actros L",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h011"
+  },
+  {
+    "assessmentId": "1062",
+    "make": "MG",
+    "model": "ZS Hybrid",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1062"
+  },
+  {
+    "assessmentId": "1198",
+    "make": "MG",
+    "model": "P9 EV",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1198"
+  },
+  {
+    "assessmentId": "1061",
+    "make": "MG",
+    "model": "HS",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1061"
+  },
+  {
+    "assessmentId": "1069",
+    "make": "MINI",
+    "model": "Countryman",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1069"
+  },
+  {
+    "assessmentId": "1104",
+    "make": "Mitsubishi",
+    "model": "ASX",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1104"
+  },
+  {
+    "assessmentId": "1187",
+    "make": "Mitsubishi",
+    "model": "Grandis",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1187"
+  },
+  {
+    "assessmentId": "1054",
+    "make": "NIO",
+    "model": "EL6",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1054"
+  },
+  {
+    "assessmentId": "1188",
+    "make": "Nissan",
+    "model": "Micra",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1188"
+  },
+  {
+    "assessmentId": "1018",
+    "make": "Porsche",
+    "model": "Macan",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1018"
+  },
+  {
+    "assessmentId": "1076",
+    "make": "Renault",
+    "model": "Symbioz",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1076"
+  },
+  {
+    "assessmentId": "1080",
+    "make": "Renault",
+    "model": "5",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1080"
+  },
+  {
+    "assessmentId": "1142",
+    "make": "Renault",
+    "model": "4",
+    "year": "2025",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1142"
+  },
+  {
+    "assessmentId": "1082",
+    "make": "Renault",
+    "model": "Captur",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1082"
+  },
+  {
+    "assessmentId": "h016",
+    "make": "Renault Trucks",
+    "model": "T",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h016"
+  },
+  {
+    "assessmentId": "h018",
+    "make": "Scania",
+    "model": "G-series",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h018"
+  },
+  {
+    "assessmentId": "h018",
+    "make": "Scania",
+    "model": "G-series",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h018"
+  },
+  {
+    "assessmentId": "1022",
+    "make": "Škoda",
+    "model": "Superb",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1022"
+  },
+  {
+    "assessmentId": "1074",
+    "make": "Škoda",
+    "model": "Kodiaq",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1074"
+  },
+  {
+    "assessmentId": "1058pm",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1058pm"
+  },
+  {
+    "assessmentId": "1058",
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1058"
+  },
+  {
+    "assessmentId": "1059",
+    "make": "Subaru",
+    "model": "Forester",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1059"
+  },
+  {
+    "assessmentId": "1036",
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1036"
+  },
+  {
+    "assessmentId": "1042",
+    "make": "Toyota",
+    "model": "C-HR",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1042"
+  },
+  {
+    "assessmentId": "1033",
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1033"
+  },
+  {
+    "assessmentId": "a021",
+    "make": "Volkswagen",
+    "model": "ID.7",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a021"
+  },
+  {
+    "assessmentId": "1021",
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1021"
+  },
+  {
+    "assessmentId": "a019",
+    "make": "Volvo",
+    "model": "C40 Recharge",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a019"
+  },
+  {
+    "assessmentId": "h014",
+    "make": "Volvo",
+    "model": "FH Aero",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h014"
+  },
+  {
+    "assessmentId": "h017",
+    "make": "Volvo",
+    "model": "FM",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=h017"
+  },
+  {
+    "assessmentId": "1098",
+    "make": "Volvo",
+    "model": "EX30",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1098"
+  },
+  {
+    "assessmentId": "1086",
+    "make": "XPENG",
+    "model": "G6",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1086"
+  },
+  {
+    "assessmentId": "1037",
+    "make": "ZEEKR",
+    "model": "1",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1037"
+  },
+  {
+    "assessmentId": "1038",
+    "make": "ZEEKR",
+    "model": "X",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1038"
+  },
+  {
+    "assessmentId": "a013",
+    "make": "Alfa Romeo",
+    "model": "Tonale",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a013"
+  },
+  {
+    "assessmentId": "1032",
+    "make": "BMW",
+    "model": "5 Series",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1032"
+  },
+  {
+    "assessmentId": "1044",
+    "make": "BYD",
+    "model": "SEAL",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1044"
+  },
+  {
+    "assessmentId": "1049",
+    "make": "BYD",
+    "model": "TANG",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1049"
+  },
+  {
+    "assessmentId": "1040",
+    "make": "BYD",
+    "model": "DOLPHIN",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1040"
+  },
+  {
+    "assessmentId": "1046",
+    "make": "BYD",
+    "model": "SEAL-U",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1046"
+  },
+  {
+    "assessmentId": "1047",
+    "make": "Honda",
+    "model": "ZR-V",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1047"
+  },
+  {
+    "assessmentId": "1051",
+    "make": "Hyundai",
+    "model": "KONA",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1051"
+  },
+  {
+    "assessmentId": "1052",
+    "make": "Kia",
+    "model": "EV9",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1052"
+  },
+  {
+    "assessmentId": "1043",
+    "make": "Lexus",
+    "model": "RZ",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1043"
+  },
+  {
+    "assessmentId": "1045",
+    "make": "Mercedes-Benz",
+    "model": "EQE SUV",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1045"
+  },
+  {
+    "assessmentId": "a017",
+    "make": "Mercedes-Benz",
+    "model": "EQE SUV",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a017"
+  },
+  {
+    "assessmentId": "a016",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a016"
+  },
+  {
+    "assessmentId": "1024",
+    "make": "NIO",
+    "model": "ET5",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1024"
+  },
+  {
+    "assessmentId": "1023",
+    "make": "NIO",
+    "model": "EL7",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1023"
+  },
+  {
+    "assessmentId": "a015",
+    "make": "Nissan",
+    "model": "Ariya",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a015"
+  },
+  {
+    "assessmentId": "a014",
+    "make": "Renault",
+    "model": "Austral",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a014"
+  },
+  {
+    "assessmentId": "1029",
+    "make": "smart",
+    "model": "#3",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1029"
+  },
+  {
+    "assessmentId": "1008",
+    "make": "VinFast",
+    "model": "VF8",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1008"
+  },
+  {
+    "assessmentId": "1025",
+    "make": "Volkswagen",
+    "model": "ID.7",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1025"
+  },
+  {
+    "assessmentId": "1034",
+    "make": "XPENG",
+    "model": "P7",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1034"
+  },
+  {
+    "assessmentId": "1048",
+    "make": "XPENG",
+    "model": "G9",
+    "year": "2023",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1048"
+  },
+  {
+    "assessmentId": "0991",
+    "make": "Alfa Romeo",
+    "model": "Tonale",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0991"
+  },
+  {
+    "assessmentId": "0996",
+    "make": "BMW",
+    "model": "2 Series Active Tourer",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0996"
+  },
+  {
+    "assessmentId": "0958",
+    "make": "BMW",
+    "model": "i4",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0958"
+  },
+  {
+    "assessmentId": "1065",
+    "make": "BMW",
+    "model": "X2",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1065"
+  },
+  {
+    "assessmentId": "0997",
+    "make": "BMW",
+    "model": "X1",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0997"
+  },
+  {
+    "assessmentId": "0904",
+    "make": "BMW",
+    "model": "2 Series Coupé",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0904"
+  },
+  {
+    "assessmentId": "0992",
+    "make": "BYD",
+    "model": "ATTO 3",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0992"
+  },
+  {
+    "assessmentId": "0998",
+    "make": "CHERY",
+    "model": "OMODA5",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0998"
+  },
+  {
+    "assessmentId": "0916",
+    "make": "Citroën",
+    "model": "C5 X",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0916"
+  },
+  {
+    "assessmentId": "0824",
+    "make": "CUPRA",
+    "model": "BORN",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0824"
+  },
+  {
+    "assessmentId": "0917",
+    "make": "DS",
+    "model": "9",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0917"
+  },
+  {
+    "assessmentId": "0918sp",
+    "make": "DS",
+    "model": "4",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0918sp"
+  },
+  {
+    "assessmentId": "0918",
+    "make": "DS",
+    "model": "4",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0918"
+  },
+  {
+    "assessmentId": "0988",
+    "make": "Ford",
+    "model": "Ranger",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0988"
+  },
+  {
+    "assessmentId": "0986",
+    "make": "Ford",
+    "model": "Puma",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0986"
+  },
+  {
+    "assessmentId": "0982",
+    "make": "Genesis",
+    "model": "GV60",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0982"
+  },
+  {
+    "assessmentId": "0983",
+    "make": "GWM",
+    "model": "Wey 05",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0983"
+  },
+  {
+    "assessmentId": "1002",
+    "make": "GWM",
+    "model": "ORA 03",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1002"
+  },
+  {
+    "assessmentId": "0945",
+    "make": "Honda",
+    "model": "Civic",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0945"
+  },
+  {
+    "assessmentId": "0909",
+    "make": "Honda",
+    "model": "HR-V",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0909"
+  },
+  {
+    "assessmentId": "0952",
+    "make": "Hyundai",
+    "model": "IONIQ 6",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0952"
+  },
+  {
+    "assessmentId": "0933",
+    "make": "Isuzu",
+    "model": "D-Max Crew Cab",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0933"
+  },
+  {
+    "assessmentId": "a008",
+    "make": "Jaguar",
+    "model": "I-Pace",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a008"
+  },
+  {
+    "assessmentId": "0926",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0926"
+  },
+  {
+    "assessmentId": "0938",
+    "make": "Kia",
+    "model": "EV6",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0938"
+  },
+  {
+    "assessmentId": "0951",
+    "make": "Kia",
+    "model": "Sportage",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0951"
+  },
+  {
+    "assessmentId": "1000",
+    "make": "Kia",
+    "model": "Niro",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1000"
+  },
+  {
+    "assessmentId": "1000sp",
+    "make": "Kia",
+    "model": "Niro",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1000sp"
+  },
+  {
+    "assessmentId": "0959",
+    "make": "Land Rover",
+    "model": "Discovery Sport",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0959"
+  },
+  {
+    "assessmentId": "0898",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0898"
+  },
+  {
+    "assessmentId": "0960",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0960"
+  },
+  {
+    "assessmentId": "0908",
+    "make": "Lexus",
+    "model": "NX",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0908"
+  },
+  {
+    "assessmentId": "0995",
+    "make": "Lexus",
+    "model": "RX",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0995"
+  },
+  {
+    "assessmentId": "0987",
+    "make": "Lucid",
+    "model": "Air",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0987"
+  },
+  {
+    "assessmentId": "0985",
+    "make": "Maxus",
+    "model": "MIFA 9",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0985"
+  },
+  {
+    "assessmentId": "0940",
+    "make": "MAZDA",
+    "model": "CX-60",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0940"
+  },
+  {
+    "assessmentId": "0920",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0920"
+  },
+  {
+    "assessmentId": "a012",
+    "make": "Mercedes-Benz",
+    "model": "EQE",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a012"
+  },
+  {
+    "assessmentId": "0873",
+    "make": "Mercedes-Benz",
+    "model": "T-Class",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0873"
+  },
+  {
+    "assessmentId": "0873pm",
+    "make": "Mercedes-Benz",
+    "model": "Citan Tourer",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0873pm"
+  },
+  {
+    "assessmentId": "0937",
+    "make": "Mercedes-Benz",
+    "model": "GLC",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0937"
+  },
+  {
+    "assessmentId": "0936",
+    "make": "Mercedes-Benz",
+    "model": "EQE",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0936"
+  },
+  {
+    "assessmentId": "1001",
+    "make": "MG",
+    "model": "4 Electric",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1001"
+  },
+  {
+    "assessmentId": "1011",
+    "make": "Mobilize",
+    "model": "Limo",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1011"
+  },
+  {
+    "assessmentId": "1007",
+    "make": "NIO",
+    "model": "ET7",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1007"
+  },
+  {
+    "assessmentId": "0928",
+    "make": "Nissan",
+    "model": "Ariya",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0928"
+  },
+  {
+    "assessmentId": "a009",
+    "make": "Nissan",
+    "model": "Qashqai",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a009"
+  },
+  {
+    "assessmentId": "0915",
+    "make": "Opel",
+    "model": "Astra",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0915"
+  },
+  {
+    "assessmentId": "0919",
+    "make": "Peugeot",
+    "model": "308",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0919"
+  },
+  {
+    "assessmentId": "1006",
+    "make": "Peugeot",
+    "model": "408",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1006"
+  },
+  {
+    "assessmentId": "a011",
+    "make": "Polestar",
+    "model": "2",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a011"
+  },
+  {
+    "assessmentId": "1067",
+    "make": "Renault",
+    "model": "Scenic E-Tech",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1067"
+  },
+  {
+    "assessmentId": "0943",
+    "make": "Renault",
+    "model": "Austral",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0943"
+  },
+  {
+    "assessmentId": "1072",
+    "make": "Renault",
+    "model": "Espace",
+    "year": "2024",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1072"
+  },
+  {
+    "assessmentId": "0943pm",
+    "make": "Renault",
+    "model": "Rafale",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0943pm"
+  },
+  {
+    "assessmentId": "0921",
+    "make": "Renault",
+    "model": "Megane E-Tech",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0921"
+  },
+  {
+    "assessmentId": "0932",
+    "make": "SEAT",
+    "model": "Ibiza",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0932"
+  },
+  {
+    "assessmentId": "0942",
+    "make": "SEAT",
+    "model": "Arona",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0942"
+  },
+  {
+    "assessmentId": "0939",
+    "make": "Škoda",
+    "model": "Octavia",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0939"
+  },
+  {
+    "assessmentId": "0923",
+    "make": "smart",
+    "model": "#1",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0923"
+  },
+  {
+    "assessmentId": "0993pm",
+    "make": "Subaru",
+    "model": "Solterra",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0993pm"
+  },
+  {
+    "assessmentId": "0990",
+    "make": "Tesla",
+    "model": "Model S",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0990"
+  },
+  {
+    "assessmentId": "0961",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0961"
+  },
+  {
+    "assessmentId": "0993",
+    "make": "Toyota",
+    "model": "bZ4X",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0993"
+  },
+  {
+    "assessmentId": "0994",
+    "make": "Toyota",
+    "model": "Corolla Cross",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0994"
+  },
+  {
+    "assessmentId": "0941",
+    "make": "Toyota",
+    "model": "Aygo X",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0941"
+  },
+  {
+    "assessmentId": "0927",
+    "make": "Volkswagen",
+    "model": "Multivan",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0927"
+  },
+  {
+    "assessmentId": "a010",
+    "make": "Volkswagen",
+    "model": "ID.5",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=a010"
+  },
+  {
+    "assessmentId": "0999",
+    "make": "Volkswagen",
+    "model": "Amarok",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0999"
+  },
+  {
+    "assessmentId": "0922",
+    "make": "Volkswagen",
+    "model": "ID.Buzz",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0922"
+  },
+  {
+    "assessmentId": "0913",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0913"
+  },
+  {
+    "assessmentId": "0914",
+    "make": "Volkswagen",
+    "model": "Touran",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0914"
+  },
+  {
+    "assessmentId": "0890",
+    "make": "Volkswagen",
+    "model": "Polo",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0890"
+  },
+  {
+    "assessmentId": "0878",
+    "make": "Volkswagen",
+    "model": "Taigo",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0878"
+  },
+  {
+    "assessmentId": "0957",
+    "make": "Volvo",
+    "model": "C40 Recharge",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0957"
+  },
+  {
+    "assessmentId": "0871",
+    "make": "Audi",
+    "model": "Q4 e-tron",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0871"
+  },
+  {
+    "assessmentId": "0883",
+    "make": "BMW",
+    "model": "iX",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0883"
+  },
+  {
+    "assessmentId": "0857",
+    "make": "Citroën",
+    "model": "C4",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0857"
+  },
+  {
+    "assessmentId": "0862",
+    "make": "CUPRA",
+    "model": "Formentor",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0862"
+  },
+  {
+    "assessmentId": "0947",
+    "make": "Dacia",
+    "model": "Jogger",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0947"
+  },
+  {
+    "assessmentId": "0861p2",
+    "make": "Dacia",
+    "model": "Sandero",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0861p2"
+  },
+  {
+    "assessmentId": "0910",
+    "make": "Dacia",
+    "model": "Spring",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0910"
+  },
+  {
+    "assessmentId": "0861",
+    "make": "Dacia",
+    "model": "Sandero Stepway",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0861"
+  },
+  {
+    "assessmentId": "0861pm",
+    "make": "Dacia",
+    "model": "Logan",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0861pm"
+  },
+  {
+    "assessmentId": "0911",
+    "make": "FIAT",
+    "model": "500e",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0911"
+  },
+  {
+    "assessmentId": "0948",
+    "make": "Ford",
+    "model": "Tourneo Connect",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0948"
+  },
+  {
+    "assessmentId": "0884",
+    "make": "Ford",
+    "model": "Mustang Mach-E",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0884"
+  },
+  {
+    "assessmentId": "0912",
+    "make": "Genesis",
+    "model": "G70",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0912"
+  },
+  {
+    "assessmentId": "0851",
+    "make": "Genesis",
+    "model": "GV80",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0851"
+  },
+  {
+    "assessmentId": "0852",
+    "make": "Genesis",
+    "model": "G80",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0852"
+  },
+  {
+    "assessmentId": "0900",
+    "make": "Genesis",
+    "model": "GV70",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0900"
+  },
+  {
+    "assessmentId": "0891",
+    "make": "Hyundai",
+    "model": "BAYON",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0891"
+  },
+  {
+    "assessmentId": "0893",
+    "make": "Hyundai",
+    "model": "IONIQ 5",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0893"
+  },
+  {
+    "assessmentId": "0891pm",
+    "make": "Hyundai",
+    "model": "i20",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0891pm"
+  },
+  {
+    "assessmentId": "0895",
+    "make": "Hyundai",
+    "model": "TUCSON",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0895"
+  },
+  {
+    "assessmentId": "0877",
+    "make": "Lynk & Co",
+    "model": "1",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0877"
+  },
+  {
+    "assessmentId": "0889",
+    "make": "Mercedes-Benz",
+    "model": "EQS",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0889"
+  },
+  {
+    "assessmentId": "0874",
+    "make": "MG",
+    "model": "Marvel R",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0874"
+  },
+  {
+    "assessmentId": "0888",
+    "make": "NIO",
+    "model": "ES8",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0888"
+  },
+  {
+    "assessmentId": "1012",
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=1012"
+  },
+  {
+    "assessmentId": "0906",
+    "make": "Nissan",
+    "model": "Qashqai",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0906"
+  },
+  {
+    "assessmentId": "0856pm",
+    "make": "Nissan",
+    "model": "Townstar",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0856pm"
+  },
+  {
+    "assessmentId": "0859",
+    "make": "Opel",
+    "model": "Mokka",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0859"
+  },
+  {
+    "assessmentId": "0855",
+    "make": "Polestar",
+    "model": "2",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0855"
+  },
+  {
+    "assessmentId": "0856",
+    "make": "Renault",
+    "model": "Kangoo",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0856"
+  },
+  {
+    "assessmentId": "0903",
+    "make": "Renault",
+    "model": "ZOE",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0903"
+  },
+  {
+    "assessmentId": "0848",
+    "make": "Škoda",
+    "model": "ENYAQ iV",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0848"
+  },
+  {
+    "assessmentId": "0876",
+    "make": "Škoda",
+    "model": "Fabia",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0876"
+  },
+  {
+    "assessmentId": "0872",
+    "make": "Subaru",
+    "model": "Outback",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0872"
+  },
+  {
+    "assessmentId": "0850",
+    "make": "Toyota",
+    "model": "Mirai",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0850"
+  },
+  {
+    "assessmentId": "0875",
+    "make": "Toyota",
+    "model": "Yaris Cross",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0875"
+  },
+  {
+    "assessmentId": "0929",
+    "make": "Volkswagen",
+    "model": "ID.5",
+    "year": "2022",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0929"
+  },
+  {
+    "assessmentId": "0845",
+    "make": "Volkswagen",
+    "model": "Caddy",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0845"
+  },
+  {
+    "assessmentId": "0846",
+    "make": "Volkswagen",
+    "model": "ID.4",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0846"
+  },
+  {
+    "assessmentId": "0786",
+    "make": "Audi",
+    "model": "A3",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0786"
+  },
+  {
+    "assessmentId": "0801pm",
+    "make": "CUPRA",
+    "model": "Leon",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0801pm"
+  },
+  {
+    "assessmentId": "0830",
+    "make": "Honda",
+    "model": "Jazz",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0830"
+  },
+  {
+    "assessmentId": "0831",
+    "make": "Honda",
+    "model": "e",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0831"
+  },
+  {
+    "assessmentId": "0847",
+    "make": "Hyundai",
+    "model": "i10",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0847"
+  },
+  {
+    "assessmentId": "0844",
+    "make": "Isuzu",
+    "model": "D-MAX",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0844"
+  },
+  {
+    "assessmentId": "0849",
+    "make": "Kia",
+    "model": "Sorento",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0849"
+  },
+  {
+    "assessmentId": "0811",
+    "make": "Land Rover",
+    "model": "Defender",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0811"
+  },
+  {
+    "assessmentId": "0841",
+    "make": "MAZDA",
+    "model": "MX-30",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0841"
+  },
+  {
+    "assessmentId": "0821pm",
+    "make": "MAZDA",
+    "model": "2",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0821pm"
+  },
+  {
+    "assessmentId": "0801",
+    "make": "SEAT",
+    "model": "Leon",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0801"
+  },
+  {
+    "assessmentId": "0821",
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0821"
+  },
+  {
+    "assessmentId": "0836",
+    "make": "Volkswagen",
+    "model": "ID.3",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0836"
+  },
+  {
+    "assessmentId": "0750",
+    "make": "Aiways",
+    "model": "U5",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0750"
+  },
+  {
+    "assessmentId": "0772",
+    "make": "Audi",
+    "model": "A1",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0772"
+  },
+  {
+    "assessmentId": "0788",
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0788"
+  },
+  {
+    "assessmentId": "0752",
+    "make": "Audi",
+    "model": "Q8 e-tron",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0752"
+  },
+  {
+    "assessmentId": "0789",
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0789"
+  },
+  {
+    "assessmentId": "0780",
+    "make": "BMW",
+    "model": "1 Series",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0780"
+  },
+  {
+    "assessmentId": "0775",
+    "make": "BMW",
+    "model": "Z4",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0775"
+  },
+  {
+    "assessmentId": "0774",
+    "make": "BMW",
+    "model": "3 Series",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0774"
+  },
+  {
+    "assessmentId": "0780pm",
+    "make": "BMW",
+    "model": "2 Series Gran Coupe",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0780pm"
+  },
+  {
+    "assessmentId": "0869",
+    "make": "BMW",
+    "model": "4 Series Coupé",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0869"
+  },
+  {
+    "assessmentId": "0870",
+    "make": "BMW",
+    "model": "4 Series Convertible",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0870"
+  },
+  {
+    "assessmentId": "0747sp",
+    "make": "Citroën",
+    "model": "C5 Aircross",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0747sp"
+  },
+  {
+    "assessmentId": "0747",
+    "make": "Citroën",
+    "model": "C5 Aircross",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0747"
+  },
+  {
+    "assessmentId": "0756sp",
+    "make": "DS",
+    "model": "3 Crossback",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0756sp"
+  },
+  {
+    "assessmentId": "0756",
+    "make": "DS",
+    "model": "3 Crossback",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0756"
+  },
+  {
+    "assessmentId": "0793",
+    "make": "Ford",
+    "model": "Mondeo",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0793"
+  },
+  {
+    "assessmentId": "0814",
+    "make": "Ford",
+    "model": "Focus",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0814"
+  },
+  {
+    "assessmentId": "0792",
+    "make": "Ford",
+    "model": "Kuga",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0792"
+  },
+  {
+    "assessmentId": "0781",
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0781"
+  },
+  {
+    "assessmentId": "0791",
+    "make": "Ford",
+    "model": "Puma",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0791"
+  },
+  {
+    "assessmentId": "0748",
+    "make": "Honda",
+    "model": "CR-V",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0748"
+  },
+  {
+    "assessmentId": "0818",
+    "make": "Jeep",
+    "model": "Renegade",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0818"
+  },
+  {
+    "assessmentId": "0813",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0813"
+  },
+  {
+    "assessmentId": "0757",
+    "make": "Kia",
+    "model": "Ceed",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0757"
+  },
+  {
+    "assessmentId": "0757sp",
+    "make": "Kia",
+    "model": "Ceed",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0757sp"
+  },
+  {
+    "assessmentId": "0760",
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0760"
+  },
+  {
+    "assessmentId": "0761",
+    "make": "Lexus",
+    "model": "UX",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0761"
+  },
+  {
+    "assessmentId": "0812",
+    "make": "MAZDA",
+    "model": "CX-30",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0812"
+  },
+  {
+    "assessmentId": "0758",
+    "make": "MAZDA",
+    "model": "3",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0758"
+  },
+  {
+    "assessmentId": "0749",
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0749"
+  },
+  {
+    "assessmentId": "0754pm",
+    "make": "Mercedes-Benz",
+    "model": "GLA",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0754pm"
+  },
+  {
+    "assessmentId": "0794pm",
+    "make": "Mercedes-Benz",
+    "model": "EQB",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0794pm"
+  },
+  {
+    "assessmentId": "0755",
+    "make": "Mercedes-Benz",
+    "model": "GLE",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0755"
+  },
+  {
+    "assessmentId": "0754",
+    "make": "Mercedes-Benz",
+    "model": "B-Class",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0754"
+  },
+  {
+    "assessmentId": "0776",
+    "make": "Mercedes-Benz",
+    "model": "EQC",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0776"
+  },
+  {
+    "assessmentId": "0794",
+    "make": "Mercedes-Benz",
+    "model": "GLB",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0794"
+  },
+  {
+    "assessmentId": "0806",
+    "make": "Mercedes-Benz",
+    "model": "CLA",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0806"
+  },
+  {
+    "assessmentId": "0897",
+    "make": "Mercedes-Benz",
+    "model": "EQA",
+    "year": "2021",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0897"
+  },
+  {
+    "assessmentId": "0795",
+    "make": "MG",
+    "model": "HS",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0795"
+  },
+  {
+    "assessmentId": "0797",
+    "make": "MG",
+    "model": "ZS EV",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0797"
+  },
+  {
+    "assessmentId": "0798",
+    "make": "Nissan",
+    "model": "Juke",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0798"
+  },
+  {
+    "assessmentId": "0784",
+    "make": "Opel",
+    "model": "Corsa",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0784"
+  },
+  {
+    "assessmentId": "0799sp",
+    "make": "Peugeot",
+    "model": "2008",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0799sp"
+  },
+  {
+    "assessmentId": "0777",
+    "make": "Peugeot",
+    "model": "208",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0777"
+  },
+  {
+    "assessmentId": "0799",
+    "make": "Peugeot",
+    "model": "2008",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0799"
+  },
+  {
+    "assessmentId": "0800",
+    "make": "Porsche",
+    "model": "Taycan",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0800"
+  },
+  {
+    "assessmentId": "0753",
+    "make": "Renault",
+    "model": "Clio",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0753"
+  },
+  {
+    "assessmentId": "0807pm",
+    "make": "Renault",
+    "model": "Arkana",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0807pm"
+  },
+  {
+    "assessmentId": "0807",
+    "make": "Renault",
+    "model": "Captur",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0807"
+  },
+  {
+    "assessmentId": "0787p2",
+    "make": "SEAT",
+    "model": "Mii",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0787p2"
+  },
+  {
+    "assessmentId": "0817pm",
+    "make": "SEAT",
+    "model": "Alhambra",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0817pm"
+  },
+  {
+    "assessmentId": "0751",
+    "make": "SEAT",
+    "model": "Tarraco",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0751"
+  },
+  {
+    "assessmentId": "0787pm",
+    "make": "Škoda",
+    "model": "Citigo",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0787pm"
+  },
+  {
+    "assessmentId": "0779",
+    "make": "Škoda",
+    "model": "Scala",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0779"
+  },
+  {
+    "assessmentId": "0778",
+    "make": "Škoda",
+    "model": "Kamiq",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0778"
+  },
+  {
+    "assessmentId": "0785",
+    "make": "Škoda",
+    "model": "Octavia",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0785"
+  },
+  {
+    "assessmentId": "0759",
+    "make": "SsangYong",
+    "model": "Korando",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0759"
+  },
+  {
+    "assessmentId": "0803",
+    "make": "Subaru",
+    "model": "Forester",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0803"
+  },
+  {
+    "assessmentId": "0804",
+    "make": "Tesla",
+    "model": "Model X",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0804"
+  },
+  {
+    "assessmentId": "0766",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0766"
+  },
+  {
+    "assessmentId": "0764",
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0764"
+  },
+  {
+    "assessmentId": "0763",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0763"
+  },
+  {
+    "assessmentId": "0762",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0762"
+  },
+  {
+    "assessmentId": "0765",
+    "make": "Volkswagen",
+    "model": "T-Cross",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0765"
+  },
+  {
+    "assessmentId": "0805",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0805"
+  },
+  {
+    "assessmentId": "0817",
+    "make": "Volkswagen",
+    "model": "Sharan",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0817"
+  },
+  {
+    "assessmentId": "0787",
+    "make": "Volkswagen",
+    "model": "Up!",
+    "year": "2019",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0787"
+  },
+  {
+    "assessmentId": "0728pm",
+    "make": "Audi",
+    "model": "A7",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0728pm"
+  },
+  {
+    "assessmentId": "0745",
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0745"
+  },
+  {
+    "assessmentId": "0728",
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0728"
+  },
+  {
+    "assessmentId": "0743",
+    "make": "BMW",
+    "model": "X5",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0743"
+  },
+  {
+    "assessmentId": "0733pm",
+    "make": "Citroën",
+    "model": "Berlingo",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0733pm"
+  },
+  {
+    "assessmentId": "0746",
+    "make": "FIAT",
+    "model": "Panda",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0746"
+  },
+  {
+    "assessmentId": "0729",
+    "make": "Ford",
+    "model": "Tourneo Connect",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0729"
+  },
+  {
+    "assessmentId": "0724",
+    "make": "Ford",
+    "model": "Focus",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0724"
+  },
+  {
+    "assessmentId": "0731",
+    "make": "Hyundai",
+    "model": "SANTA FE",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0731"
+  },
+  {
+    "assessmentId": "0740",
+    "make": "Hyundai",
+    "model": "NEXO",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0740"
+  },
+  {
+    "assessmentId": "0742",
+    "make": "Jaguar",
+    "model": "I-Pace",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0742"
+  },
+  {
+    "assessmentId": "0744",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0744"
+  },
+  {
+    "assessmentId": "0737",
+    "make": "Lexus",
+    "model": "ES",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0737"
+  },
+  {
+    "assessmentId": "0738",
+    "make": "MAZDA",
+    "model": "6",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0738"
+  },
+  {
+    "assessmentId": "0739",
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0739"
+  },
+  {
+    "assessmentId": "0723",
+    "make": "Nissan",
+    "model": "Leaf",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0723"
+  },
+  {
+    "assessmentId": "0733p2",
+    "make": "Opel",
+    "model": "Combo Tour",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0733p2"
+  },
+  {
+    "assessmentId": "0733",
+    "make": "Peugeot",
+    "model": "Rifter",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0733"
+  },
+  {
+    "assessmentId": "0734",
+    "make": "Peugeot",
+    "model": "508",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0734"
+  },
+  {
+    "assessmentId": "0730",
+    "make": "Suzuki",
+    "model": "Jimny",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0730"
+  },
+  {
+    "assessmentId": "0733p3",
+    "make": "Toyota",
+    "model": "Proace City",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0733p3"
+  },
+  {
+    "assessmentId": "0732",
+    "make": "Volkswagen",
+    "model": "Touareg",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0732"
+  },
+  {
+    "assessmentId": "0741pm",
+    "make": "Volvo",
+    "model": "S60",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0741pm"
+  },
+  {
+    "assessmentId": "0741",
+    "make": "Volvo",
+    "model": "V60",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0741"
+  },
+  {
+    "assessmentId": "0725",
+    "make": "Volvo",
+    "model": "XC40",
+    "year": "2018",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0725"
+  },
+  {
+    "assessmentId": "0719",
+    "make": "Alfa Romeo",
+    "model": "Giulietta",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0719"
+  },
+  {
+    "assessmentId": "0676",
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0676"
+  },
+  {
+    "assessmentId": "0660",
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0660"
+  },
+  {
+    "assessmentId": "0667",
+    "make": "BMW",
+    "model": "5 Series",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0667"
+  },
+  {
+    "assessmentId": "0667pm",
+    "make": "BMW",
+    "model": "6 Series",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0667pm"
+  },
+  {
+    "assessmentId": "0708",
+    "make": "BMW",
+    "model": "X3",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0708"
+  },
+  {
+    "assessmentId": "0708pm",
+    "make": "BMW",
+    "model": "X4",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0708pm"
+  },
+  {
+    "assessmentId": "0696",
+    "make": "Citroën",
+    "model": "C3 Aircross",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0696"
+  },
+  {
+    "assessmentId": "0661",
+    "make": "Citroën",
+    "model": "C3",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0661"
+  },
+  {
+    "assessmentId": "0718",
+    "make": "Citroën",
+    "model": "e-Mehari",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0718"
+  },
+  {
+    "assessmentId": "0712",
+    "make": "Dacia",
+    "model": "Duster",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0712"
+  },
+  {
+    "assessmentId": "0720",
+    "make": "DS",
+    "model": "3",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0720"
+  },
+  {
+    "assessmentId": "0711",
+    "make": "DS",
+    "model": "7 Crossback",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0711"
+  },
+  {
+    "assessmentId": "0666",
+    "make": "FIAT",
+    "model": "Doblo",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0666"
+  },
+  {
+    "assessmentId": "0662",
+    "make": "FIAT",
+    "model": "500",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0662"
+  },
+  {
+    "assessmentId": "0690",
+    "make": "FIAT",
+    "model": "Punto",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0690"
+  },
+  {
+    "assessmentId": "0652",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0652"
+  },
+  {
+    "assessmentId": "0658",
+    "make": "Ford",
+    "model": "Ka+",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0658"
+  },
+  {
+    "assessmentId": "0701pm",
+    "make": "Ford",
+    "model": "C-MAX",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0701pm"
+  },
+  {
+    "assessmentId": "0681",
+    "make": "Ford",
+    "model": "Fiesta",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0681"
+  },
+  {
+    "assessmentId": "0701",
+    "make": "Ford",
+    "model": "Grand C-MAX",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0701"
+  },
+  {
+    "assessmentId": "0652ra",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0652ra"
+  },
+  {
+    "assessmentId": "0677",
+    "make": "Honda",
+    "model": "Civic",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0677"
+  },
+  {
+    "assessmentId": "0677ra",
+    "make": "Honda",
+    "model": "Civic",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0677ra"
+  },
+  {
+    "assessmentId": "0674",
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0674"
+  },
+  {
+    "assessmentId": "0709",
+    "make": "Hyundai",
+    "model": "KONA",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0709"
+  },
+  {
+    "assessmentId": "0716",
+    "make": "Jaguar",
+    "model": "F-Pace",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0716"
+  },
+  {
+    "assessmentId": "0705",
+    "make": "Jaguar",
+    "model": "E-Pace",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0705"
+  },
+  {
+    "assessmentId": "0688",
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0688"
+  },
+  {
+    "assessmentId": "0687sp",
+    "make": "Kia",
+    "model": "Picanto",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0687sp"
+  },
+  {
+    "assessmentId": "0717",
+    "make": "Kia",
+    "model": "Stinger",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0717"
+  },
+  {
+    "assessmentId": "0678sp",
+    "make": "Kia",
+    "model": "Rio",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0678sp"
+  },
+  {
+    "assessmentId": "0678s2",
+    "make": "Kia",
+    "model": "Stonic",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0678s2"
+  },
+  {
+    "assessmentId": "0678pm",
+    "make": "Kia",
+    "model": "Stonic",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0678pm"
+  },
+  {
+    "assessmentId": "0687",
+    "make": "Kia",
+    "model": "Picanto",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0687"
+  },
+  {
+    "assessmentId": "0678",
+    "make": "Kia",
+    "model": "Rio",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0678"
+  },
+  {
+    "assessmentId": "0664",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0664"
+  },
+  {
+    "assessmentId": "0689",
+    "make": "Land Rover",
+    "model": "Range Rover Velar",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0689"
+  },
+  {
+    "assessmentId": "0679",
+    "make": "MAZDA",
+    "model": "CX-5",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0679"
+  },
+  {
+    "assessmentId": "0710",
+    "make": "Mercedes-Benz",
+    "model": "X-Class",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0710"
+  },
+  {
+    "assessmentId": "0686",
+    "make": "Mercedes-Benz",
+    "model": "C-Class Cabriolet",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0686"
+  },
+  {
+    "assessmentId": "0707",
+    "make": "MG",
+    "model": "ZS",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0707"
+  },
+  {
+    "assessmentId": "0670",
+    "make": "MINI",
+    "model": "Countryman",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0670"
+  },
+  {
+    "assessmentId": "0695",
+    "make": "Mitsubishi",
+    "model": "Eclipse Cross",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0695"
+  },
+  {
+    "assessmentId": "0665sp",
+    "make": "Nissan",
+    "model": "Micra",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0665sp"
+  },
+  {
+    "assessmentId": "0665",
+    "make": "Nissan",
+    "model": "Micra",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0665"
+  },
+  {
+    "assessmentId": "0672",
+    "make": "Opel",
+    "model": "Insignia",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0672"
+  },
+  {
+    "assessmentId": "0685",
+    "make": "Opel",
+    "model": "Grandland X",
+    "year": "2020",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0685"
+  },
+  {
+    "assessmentId": "0691",
+    "make": "Opel",
+    "model": "Crossland X",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0691"
+  },
+  {
+    "assessmentId": "0682",
+    "make": "Opel",
+    "model": "Karl",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0682"
+  },
+  {
+    "assessmentId": "0680",
+    "make": "Opel",
+    "model": "Ampera-e",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0680"
+  },
+  {
+    "assessmentId": "0706",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0706"
+  },
+  {
+    "assessmentId": "0684",
+    "make": "Renault",
+    "model": "Koleos",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0684"
+  },
+  {
+    "assessmentId": "0675",
+    "make": "SEAT",
+    "model": "Ibiza",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0675"
+  },
+  {
+    "assessmentId": "0698",
+    "make": "SEAT",
+    "model": "Arona",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0698"
+  },
+  {
+    "assessmentId": "0669",
+    "make": "Škoda",
+    "model": "Kodiaq",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0669"
+  },
+  {
+    "assessmentId": "0697",
+    "make": "Škoda",
+    "model": "Karoq",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0697"
+  },
+  {
+    "assessmentId": "0704pm",
+    "make": "Subaru",
+    "model": "XV",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0704pm"
+  },
+  {
+    "assessmentId": "0704",
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0704"
+  },
+  {
+    "assessmentId": "0671sp",
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0671sp"
+  },
+  {
+    "assessmentId": "0671",
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0671"
+  },
+  {
+    "assessmentId": "0713sp",
+    "make": "Toyota",
+    "model": "Aygo",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0713sp"
+  },
+  {
+    "assessmentId": "0714",
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0714"
+  },
+  {
+    "assessmentId": "0713",
+    "make": "Toyota",
+    "model": "Aygo",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0713"
+  },
+  {
+    "assessmentId": "0663",
+    "make": "Toyota",
+    "model": "C-HR",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0663"
+  },
+  {
+    "assessmentId": "0673",
+    "make": "Volkswagen",
+    "model": "Arteon",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0673"
+  },
+  {
+    "assessmentId": "0694",
+    "make": "Volkswagen",
+    "model": "T-Roc",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0694"
+  },
+  {
+    "assessmentId": "0692",
+    "make": "Volkswagen",
+    "model": "Polo",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0692"
+  },
+  {
+    "assessmentId": "0699",
+    "make": "Volvo",
+    "model": "XC60",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0699"
+  },
+  {
+    "assessmentId": "0659pm",
+    "make": "Volvo",
+    "model": "V90",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0659pm"
+  },
+  {
+    "assessmentId": "0659",
+    "make": "Volvo",
+    "model": "S90",
+    "year": "2017",
+    "assessmentUrl": "https://www.euroncap.com/assessments/?assessmentId=0659"
+  }
+]

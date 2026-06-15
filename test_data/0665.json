@@ -1,0 +1,2019 @@
+{
+    "id": "0665",
+    "internalId": "c1eb1c62-e0e9-4af0-836b-9228143755f9",
+    "createdAt": "2026-01-28T09:12:05.192Z",
+    "updatedAt": "2026-03-24T16:49:46.486Z",
+    "status": {
+        "code": "PUBLISHED",
+        "name": "Published"
+    },
+    "assessmentType": {
+        "code": "CAR_SAFETY",
+        "name": "Car Safety"
+    },
+    "assessmentDiagrams": [
+        {
+            "id": "ece8d6b1-89f8-4cc3-ab19-f7dbf9de3d5a",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_pole-2026__5c8e1d3eac17a7b8_original.png",
+            "altText": "",
+            "diagramType": "aop_lateral_impact_side_pole",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_pole-2026__d789881ecc3af985_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_pole-2026__b282fc7071bfade6_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_pole-2026__2ca2ffe209428e57_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_pole-2026__6b8953fb8b8682e8_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_pole-2026__6b3ff1b98836a560_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "9289dcde-7b71-4e6b-9a54-b951f80dd546",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_occupant_interaction-2026__f50a303028295c9c_original.png",
+            "altText": "",
+            "diagramType": "aop_lateral_impact_occupant_interaction",
+            "diagramVersion": "2026",
+            "width": 3720,
+            "height": 2480,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_occupant_interaction-2026__94e6931955c7849f_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_occupant_interaction-2026__2f3fc7b42c1e9aed_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_occupant_interaction-2026__a5f73b724bafde38_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_occupant_interaction-2026__50b127908ab80cc1_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_occupant_interaction-2026__dc7a6539aa23af8b_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "5ca3fbab-9926-4e1c-80a9-6dd99810f22c",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/vru_impact_protection-2022__99bc9a53e918989c_original.png",
+            "altText": "Vulnerable road user impact protection",
+            "diagramType": "vru_impact_protection",
+            "diagramVersion": "2022",
+            "width": 900,
+            "height": 1000,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/vru_impact_protection-2022__f030e77b0ea0648a_lg.webp",
+                    "width": 900,
+                    "height": 1000
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/vru_impact_protection-2022__7b2ff01330dc0b27_sm.webp",
+                    "width": 320,
+                    "height": 356
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/vru_impact_protection-2022__86a1bce8cfd00fa1_md.webp",
+                    "width": 768,
+                    "height": 853
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/vru_impact_protection-2022__f030e77b0ea0648a_xl.webp",
+                    "width": 900,
+                    "height": 1000
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/vru_impact_protection-2022__1cba6decddc838b2_thumb.webp",
+                    "width": 156,
+                    "height": 173
+                }
+            }
+        },
+        {
+            "id": "7889e4d9-b166-4160-943b-2e944a99ffa9",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_mpdb_dummies-2026__db3beb3d47d94969_original.png",
+            "altText": "",
+            "diagramType": "aop_frontal_impact_mpdb_dummies",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_mpdb_dummies-2026__3751a433e15fd6d9_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_mpdb_dummies-2026__82eb3c38a6418c0e_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_mpdb_dummies-2026__d6fb41e91aab76f8_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_mpdb_dummies-2026__7a10b16d54fb2c77_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_mpdb_dummies-2026__0ba98314116da637_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "e380abaa-9dde-4b94-a25a-3c7390f0b9a4",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isofix-2026__9c3a100f8cf42f58_original.png",
+            "altText": "",
+            "diagramType": "cop_crs_installation_check_isofix",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isofix-2026__85ade4ca3550a146_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isofix-2026__3f49285f1f1d60e1_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isofix-2026__de7e3ce9f5b65907_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isofix-2026__437d2497748b7c84_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isofix-2026__9c734770986eb276_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "2f36a446-dd15-4bcc-b1ee-9bdf87f2e3c0",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isize-2026__9c3a100f8cf42f58_original.png",
+            "altText": "",
+            "diagramType": "cop_crs_installation_check_isize",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isize-2026__85ade4ca3550a146_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isize-2026__3f49285f1f1d60e1_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isize-2026__de7e3ce9f5b65907_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isize-2026__437d2497748b7c84_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_isize-2026__9c734770986eb276_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "77b5490a-d839-4606-9cf1-e0c23ae23909",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_front_seat-2026__a7f9ac599ae14a48_original.png",
+            "altText": "",
+            "diagramType": "aop_rear_impact_front_seat",
+            "diagramVersion": "2026",
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_front_seat-2026__5ccab72606ca61f6_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_front_seat-2026__7e1dd3038180a907_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_front_seat-2026__9a55ae6d906457cb_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_front_seat-2026__ac1ce29b70863bd3_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_front_seat-2026__79f7b90dd5a54958_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "2caae9eb-1ca3-4c07-82db-23660deed9a3",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_fwrb-2026__88f78f127e1ebf5e_original.png",
+            "altText": "",
+            "diagramType": "aop_frontal_impact_fwrb",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_fwrb-2026__1c0da0b2c02442c7_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_fwrb-2026__c92aca88fa751db0_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_fwrb-2026__3fd5a6bfc2823099_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_fwrb-2026__54d4bdd58cf559a2_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_frontal_impact_fwrb-2026__ea0c49e992916887_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "479fa3fc-d3b9-40d6-9f72-71b59bec8170",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_seatbelt-2026__d547f57a6f1f25a8_original.png",
+            "altText": "",
+            "diagramType": "cop_crs_installation_check_seatbelt",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_seatbelt-2026__e817005f6b875cba_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_seatbelt-2026__36847bf8c589da25_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_seatbelt-2026__5c060310a39cc673_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_seatbelt-2026__790d34649b71f7b6_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crs_installation_check_seatbelt-2026__46596d7163c33a48_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "30a5c97b-b085-4a41-936a-5434f87d1847",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_rear_seat-2026__648679038ad542da_original.png",
+            "altText": "",
+            "diagramType": "aop_rear_impact_rear_seat",
+            "diagramVersion": "2026",
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_rear_seat-2026__09117248a530c0c8_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_rear_seat-2026__5bf4e9c3f4d67690_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_rear_seat-2026__5eeb0a87190ef13e_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_rear_seat-2026__2c95d5669e39a92f_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_rear_impact_rear_seat-2026__d18cb26015fcc98b_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "7da7363e-c416-4a22-8ec8-ae4256600a5b",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_mobile_barrier-2026__ebf84c299a2bd95b_original.png",
+            "altText": "",
+            "diagramType": "aop_lateral_impact_side_mobile_barrier",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_mobile_barrier-2026__ede27462e51f1c2f_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_mobile_barrier-2026__643e10224391ac81_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_mobile_barrier-2026__9047d5bcf6e6cee6_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_mobile_barrier-2026__4c4edc06863b48be_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_side_mobile_barrier-2026__61d83a4349fb609b_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "e44a86cb-f3fb-47b5-a422-dd95fb1a039d",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_far_side_excursion-2026__92765872eae5e336_original.png",
+            "altText": "",
+            "diagramType": "aop_lateral_impact_far_side_excursion",
+            "diagramVersion": "2026",
+            "width": 3720,
+            "height": 2480,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_far_side_excursion-2026__d9a5eee2a8280452_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_far_side_excursion-2026__8ee57d82f2cd1824_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_far_side_excursion-2026__bf922bea310aa3ae_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_far_side_excursion-2026__ad2825be8ee24414_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/aop_lateral_impact_far_side_excursion-2026__2396b4a2fbbdade5_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "d3be9e94-536b-4227-bbb1-5adf863f86e7",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_frontal_impact-2026__a3899981a6ba4aa7_original.png",
+            "altText": "",
+            "diagramType": "cop_crash_test_performance_frontal_impact",
+            "diagramVersion": "2026",
+            "width": 2070,
+            "height": 1340,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_frontal_impact-2026__d272d412f5108c86_lg.webp",
+                    "width": 1200,
+                    "height": 777
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_frontal_impact-2026__02fb30ad825f2320_sm.webp",
+                    "width": 320,
+                    "height": 207
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_frontal_impact-2026__3e3221c9e4e2a741_md.webp",
+                    "width": 768,
+                    "height": 497
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_frontal_impact-2026__f78b6959d53bd765_xl.webp",
+                    "width": 2070,
+                    "height": 1340
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_frontal_impact-2026__4e793f8ec7591efb_thumb.webp",
+                    "width": 156,
+                    "height": 101
+                }
+            }
+        },
+        {
+            "id": "cfc0616f-b5de-4687-8d4a-00971c3e85c7",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_lateral_impact-2026__3d9c66284b56f2ae_original.png",
+            "altText": "",
+            "diagramType": "cop_crash_test_performance_lateral_impact",
+            "diagramVersion": "2026",
+            "width": 2070,
+            "height": 1340,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_lateral_impact-2026__6e8311c514edd174_lg.webp",
+                    "width": 1200,
+                    "height": 777
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_lateral_impact-2026__b785fd8752bdb0c1_sm.webp",
+                    "width": 320,
+                    "height": 207
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_lateral_impact-2026__c5264d9b16aadc9d_md.webp",
+                    "width": 768,
+                    "height": 497
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_lateral_impact-2026__6438716b6ca882b3_xl.webp",
+                    "width": 2070,
+                    "height": 1340
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/c1eb1c62-e0e9-4af0-836b-9228143755f9/cop_crash_test_performance_lateral_impact-2026__bf661d4ee0748ab6_thumb.webp",
+                    "width": 156,
+                    "height": 101
+                }
+            }
+        }
+    ],
+    "publicationDate": "2017-05-31",
+    "publicationYear": "2017",
+    "ratingYear": 2017,
+    "SPRefNumber": "0665",
+    "umbracoRefNumber": "26835",
+    "rescueSheetURL": null,
+    "greenNcapURL": null,
+    "frontalImageURL": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__7e697d65e12ddb2a_original.png",
+    "frontalImage": {
+        "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__7e697d65e12ddb2a_original.png",
+        "altText": null,
+        "width": 359,
+        "height": 235,
+        "formats": {
+            "large": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__e37055028c72ba3e_lg.webp",
+                "width": 359,
+                "height": 235
+            },
+            "small": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__4aefc6b2afd1f114_sm.webp",
+                "width": 320,
+                "height": 209
+            },
+            "medium": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__e37055028c72ba3e_md.webp",
+                "width": 359,
+                "height": 235
+            },
+            "xlarge": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__e37055028c72ba3e_xl.webp",
+                "width": 359,
+                "height": 235
+            },
+            "thumbnail": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__7acbf5bae2b9efc0_thumb.webp",
+                "width": 156,
+                "height": 102
+            }
+        }
+    },
+    "newsMarketURL": "https://euroncap.newsmarket.com/Find-a-car/all/nissan-micra---euro-ncap-results-2017/s/c4637b21-bc54-4049-9863-31d3b2db16a7",
+    "resultApplicability": "all Micras of the specification tested",
+    "comments": "<p>The passenger compartment of the Micra remained stable in the frontal offset test.  Dummy readings showed good protection of the knees and femurs of both driver and passenger.  Nissan demonstrated that a similar level of protection would be provided to occupants of different sizes and to those sat in different positions.  In the full-width frontal impact, the driver was well protected.  Dummy readings for the rear passenger indicated that the pelvis had slipped under the seatbelt and protection of this body area was rated as poor.  Otherwise, protection was good or adequate.  In the side barrier test, all critical body areas were well protected and the Micra scored maximum points.  In the more severe side pole test, protection of the chest was adequate and that of other body areas was good.  Tests on the front seats and head restraints demonstrated good protection against whiplash injury in the event of a rear-end collision.  However, a geometric assessment of the rear seats indicated poor whiplash protection there.  The Micra as, as standard, an autonomous emergency braking system that operates at the low speeds typical of city driving at which many whiplash injuries are caused.  The system performed well in Euro NCAP's tests, with collisions avoided in at most test speeds.</p><p>In the frontal offset test, dummy readings indicated good protection for all critical body areas of the 10 year dummy.  For the 6 year dummy, protection of the chest was rated as marginal and that of other critical body areas was good.  In the side barrier test, protection of both dummies was good and the Micra scored maximum points.  The front passenger airbag can be disabled to allow a rearward facing child restraint to be used in that seating position.  Clear information is provided to the driver regarding the status of the airbag and the system was rewarded.  All of the restraint types for which the Micra is designed could be properly installed and accommodated in the car.</p><p>The bonnet provided predominantly good or adequate protection to the head of a struck pedestrian, with poor results recorded in the stiff windscreen pillars.  The bumper provided good protection to pedestrians' legs and the protection of the pelvis area was also good at all test locations.  The Micra has, as part of its option pack, an autonomous emergency braking system that detects pedestrians.  The score for that system is not included in this rating.</p><p>A seatbelt reminder is standard for front and rear seats.  The standard-fit autonomous emergency braking system performed adequately in tests of its effectiveness at highway speeds.  The Micra also has as standard a driver set speed limitation device.  As part of its option pack, the Micra has a lane keep assistance system, the score for which is not included in this rating.</p>",
+    "testedHandOfDrive": {
+        "code": "LHD",
+        "name": "left hand drive"
+    },
+    "assessmentTags": [
+        {
+            "code": "RATING_EXPIRED",
+            "name": "Rating Expired"
+        }
+    ],
+    "assessmentData": {
+        "carSafety": {
+            "safetyPerformance": {
+                "seatArrangement": "230",
+                "nicePublicationDate": "May 2017",
+                "ratingYear": 2017,
+                "testedModel": "Nissan Micra 0.9 Acenta, LHD",
+                "kerbWeight": 1072,
+                "totalScore": 76,
+                "starRating": 4,
+                "adultOccupant": {
+                    "score": 34.6,
+                    "maxScore": 38,
+                    "normalisedScore": 91,
+                    "frontalImpact": {
+                        "score": 14.7,
+                        "maxScore": 16,
+                        "offset": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "YELLOW",
+                                    "leftFemur": "GREEN",
+                                    "rightFemur": "GREEN",
+                                    "leftTibia": "YELLOW",
+                                    "rightTibia": "GREEN"
+                                },
+                                "seat3": {
+                                    "dummyType": "50",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "GREEN",
+                                    "leftFemur": "GREEN",
+                                    "rightFemur": "GREEN",
+                                    "leftTibia": "GREEN",
+                                    "rightTibia": "GREEN"
+                                }
+                            }
+                        },
+                        "FW": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "05",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "GREEN",
+                                    "pelvis": "GREEN",
+                                    "leftFemur": "GREEN",
+                                    "rightFemur": "GREEN"
+                                },
+                                "seat6": {
+                                    "head": "GREEN",
+                                    "rightFemur": "GREEN",
+                                    "pelvis": "RED",
+                                    "neck": "YELLOW",
+                                    "leftFemur": "GREEN",
+                                    "chest": "YELLOW",
+                                    "dummyType": "05"
+                                }
+                            }
+                        }
+                    },
+                    "sideImpact": {
+                        "score": 15.5,
+                        "MDB": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50",
+                                    "head": "GREEN",
+                                    "chest": "GREEN",
+                                    "abdomen": "GREEN",
+                                    "pelvis": "GREEN"
+                                }
+                            }
+                        },
+                        "sidePole": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50",
+                                    "head": "GREEN",
+                                    "chest": "YELLOW",
+                                    "abdomen": "GREEN",
+                                    "pelvis": "GREEN"
+                                }
+                            }
+                        },
+                        "farSide": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50"
+                                }
+                            }
+                        },
+                        "O2O": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50"
+                                },
+                                "seat3": {
+                                    "dummyType": "50"
+                                }
+                            }
+                        }
+                    },
+                    "rearImpact": {
+                        "score": 1.6,
+                        "maxScore": 3,
+                        "dummyVisual": {
+                            "seat1": {
+                                "dummyType": "50",
+                                "neck": "GREEN"
+                            },
+                            "seat4": {
+                                "dummyType": "50",
+                                "neck": "RED"
+                            }
+                        }
+                    },
+                    "AEBCity": {
+                        "score": 2.8,
+                        "maxScore": 3,
+                        "verdict": "Green"
+                    }
+                },
+                "childOccupant": {
+                    "score": 39.1,
+                    "maxScore": 49,
+                    "normalisedScore": 79,
+                    "COPDynamic": {
+                        "score": 19.1,
+                        "maxScore": 24,
+                        "frontalImpact": {
+                            "score": 11.1,
+                            "maxScore": 16,
+                            "dummyVisual": {
+                                "seat4": {
+                                    "dummyType": "Q6",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "ORANGE"
+                                },
+                                "seat6": {
+                                    "dummyType": "Q10",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "GREEN"
+                                }
+                            }
+                        },
+                        "sideImpact": {
+                            "score": 8,
+                            "maxScore": 8,
+                            "dummyVisual": {
+                                "seat4": {
+                                    "dummyType": "Q10",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "GREEN"
+                                },
+                                "seat6": {
+                                    "dummyType": "Q6",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "GREEN"
+                                }
+                            }
+                        },
+                        "childRestraints": {
+                            "6YearOld": {
+                                "name": "Britax Römer KidFix XP",
+                                "type": {
+                                    "code": "HB",
+                                    "name": "Highback booster"
+                                }
+                            },
+                            "10YearOld": {
+                                "name": "Takata Maxi",
+                                "type": {
+                                    "code": "BC",
+                                    "name": "Booster cushion"
+                                }
+                            }
+                        }
+                    },
+                    "safetyFeatures": {
+                        "score": 8,
+                        "maxScore": 13,
+                        "features": {
+                            "isofix": {
+                                "frontPassenger": "FITTED_STANDARD",
+                                "row2Outboard": "FITTED_STANDARD",
+                                "row2Centre": "NOT_AVAILABLE"
+                            },
+                            "iSize": {
+                                "frontPassenger": "FITTED_STANDARD",
+                                "row2Outboard": "FITTED_STANDARD",
+                                "row2Centre": "NOT_AVAILABLE"
+                            },
+                            "topTether": {
+                                "frontPassenger": "NOT_APPLICABLE",
+                                "row2Outboard": "NOT_APPLICABLE",
+                                "row2Centre": "NOT_APPLICABLE"
+                            },
+                            "childPresenceDetection": {
+                                "frontPassenger": "NOT_APPLICABLE",
+                                "row2Outboard": "NOT_APPLICABLE",
+                                "row2Centre": "NOT_APPLICABLE"
+                            },
+                            "IntegratedCRS": {
+                                "frontPassenger": "NOT_AVAILABLE",
+                                "row2Outboard": "NOT_AVAILABLE",
+                                "row2Centre": "NOT_AVAILABLE"
+                            }
+                        }
+                    },
+                    "CRSInstallationCheck": {
+                        "score": 12,
+                        "maxScore": 12,
+                        "elements": {
+                            "iSize": {
+                                "interiorVisual": {
+                                    "seat1": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat2": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat3": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat4": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat5": {
+                                        "verdict": "NOT_ALLOWED"
+                                    },
+                                    "seat6": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat7": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat8": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat9": {
+                                        "verdict": "NA"
+                                    }
+                                }
+                            },
+                            "isofix": {
+                                "interiorVisual": {
+                                    "seat1": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat2": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat3": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat4": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat5": {
+                                        "verdict": "NOT_ALLOWED"
+                                    },
+                                    "seat6": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat7": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat8": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat9": {
+                                        "verdict": "NA"
+                                    }
+                                }
+                            },
+                            "beltAttached": {
+                                "interiorVisual": {
+                                    "seat1": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat2": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat3": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat4": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat5": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat6": {
+                                        "verdict": "PASS"
+                                    },
+                                    "seat7": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat8": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat9": {
+                                        "verdict": "NA"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "vulnerableRoadUsers": {
+                    "score": 28.8,
+                    "maxScore": 42,
+                    "normalisedScore": 68,
+                    "VRUImpactProtection": {
+                        "head": {
+                            "score": 16.8,
+                            "maxScore": 24
+                        },
+                        "pelvis": {
+                            "score": 6,
+                            "maxScore": 6
+                        },
+                        "kneeTibia": {
+                            "score": 6,
+                            "maxScore": 6
+                        },
+                        "crashVisual": {
+                            "head": {
+                                "rowForWindow": 8,
+                                "rows": {
+                                    "row14": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "NA",
+                                        "plus5": "NA",
+                                        "plus4": "NA",
+                                        "plus3": "NA",
+                                        "plus2": "NA",
+                                        "plus1": "NA",
+                                        "zero": "NA",
+                                        "minus1": "NA",
+                                        "minus2": "NA",
+                                        "minus3": "NA",
+                                        "minus4": "NA",
+                                        "minus5": "NA",
+                                        "minus6": "NA",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row13": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "RED",
+                                        "plus6": "NA",
+                                        "plus5": "NA",
+                                        "plus4": "NA",
+                                        "plus3": "NA",
+                                        "plus2": "NA",
+                                        "plus1": "NA",
+                                        "zero": "NA",
+                                        "minus1": "NA",
+                                        "minus2": "NA",
+                                        "minus3": "NA",
+                                        "minus4": "NA",
+                                        "minus5": "NA",
+                                        "minus6": "NA",
+                                        "minus7": "RED",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row12": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "RED",
+                                        "plus6": "RED",
+                                        "plus5": "YELLOW",
+                                        "plus4": "NA",
+                                        "plus3": "NA",
+                                        "plus2": "NA",
+                                        "plus1": "NA",
+                                        "zero": "NA",
+                                        "minus1": "NA",
+                                        "minus2": "NA",
+                                        "minus3": "NA",
+                                        "minus4": "NA",
+                                        "minus5": "GREEN",
+                                        "minus6": "RED",
+                                        "minus7": "RED",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row11": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "RED",
+                                        "plus6": "RED",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "YELLOW",
+                                        "minus6": "RED",
+                                        "minus7": "RED",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row10": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "RED",
+                                        "plus6": "RED",
+                                        "plus5": "GREEN",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "GREEN",
+                                        "minus6": "RED",
+                                        "minus7": "RED",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row9": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "RED",
+                                        "plus6": "RED",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "YELLOW",
+                                        "minus6": "RED",
+                                        "minus7": "RED",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row8": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "RED",
+                                        "plus7": "RED",
+                                        "plus6": "RED",
+                                        "plus5": "ORANGE",
+                                        "plus4": "YELLOW",
+                                        "plus3": "YELLOW",
+                                        "plus2": "YELLOW",
+                                        "plus1": "GREEN",
+                                        "zero": "YELLOW",
+                                        "minus1": "YELLOW",
+                                        "minus2": "YELLOW",
+                                        "minus3": "YELLOW",
+                                        "minus4": "ORANGE",
+                                        "minus5": "ORANGE",
+                                        "minus6": "RED",
+                                        "minus7": "RED",
+                                        "minus8": "RED",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row7": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "RED",
+                                        "plus6": "RED",
+                                        "plus5": "BROWN",
+                                        "plus4": "BROWN",
+                                        "plus3": "ORANGE",
+                                        "plus2": "ORANGE",
+                                        "plus1": "ORANGE",
+                                        "zero": "ORANGE",
+                                        "minus1": "ORANGE",
+                                        "minus2": "ORANGE",
+                                        "minus3": "ORANGE",
+                                        "minus4": "BROWN",
+                                        "minus5": "ORANGE",
+                                        "minus6": "RED",
+                                        "minus7": "RED",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row6": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "BROWN",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "YELLOW",
+                                        "zero": "ORANGE",
+                                        "minus1": "ORANGE",
+                                        "minus2": "ORANGE",
+                                        "minus3": "YELLOW",
+                                        "minus4": "ORANGE",
+                                        "minus5": "ORANGE",
+                                        "minus6": "BROWN",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row5": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "YELLOW",
+                                        "plus5": "ORANGE",
+                                        "plus4": "YELLOW",
+                                        "plus3": "YELLOW",
+                                        "plus2": "YELLOW",
+                                        "plus1": "YELLOW",
+                                        "zero": "YELLOW",
+                                        "minus1": "YELLOW",
+                                        "minus2": "YELLOW",
+                                        "minus3": "YELLOW",
+                                        "minus4": "YELLOW",
+                                        "minus5": "BROWN",
+                                        "minus6": "YELLOW",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row4": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "ORANGE",
+                                        "plus6": "YELLOW",
+                                        "plus5": "YELLOW",
+                                        "plus4": "YELLOW",
+                                        "plus3": "YELLOW",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "YELLOW",
+                                        "minus4": "YELLOW",
+                                        "minus5": "YELLOW",
+                                        "minus6": "YELLOW",
+                                        "minus7": "ORANGE",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row3": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "YELLOW",
+                                        "plus5": "YELLOW",
+                                        "plus4": "YELLOW",
+                                        "plus3": "YELLOW",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "YELLOW",
+                                        "minus4": "YELLOW",
+                                        "minus5": "YELLOW",
+                                        "minus6": "YELLOW",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row2": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "BROWN",
+                                        "plus5": "YELLOW",
+                                        "plus4": "YELLOW",
+                                        "plus3": "YELLOW",
+                                        "plus2": "YELLOW",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "YELLOW",
+                                        "minus3": "YELLOW",
+                                        "minus4": "YELLOW",
+                                        "minus5": "YELLOW",
+                                        "minus6": "BROWN",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row1": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "NA",
+                                        "plus5": "NA",
+                                        "plus4": "ORANGE",
+                                        "plus3": "ORANGE",
+                                        "plus2": "YELLOW",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "YELLOW",
+                                        "minus3": "ORANGE",
+                                        "minus4": "ORANGE",
+                                        "minus5": "NA",
+                                        "minus6": "NA",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row0": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "NA",
+                                        "plus5": "NA",
+                                        "plus4": "NA",
+                                        "plus3": "NA",
+                                        "plus2": "NA",
+                                        "plus1": "NA",
+                                        "zero": "ORANGE",
+                                        "minus1": "NA",
+                                        "minus2": "NA",
+                                        "minus3": "NA",
+                                        "minus4": "NA",
+                                        "minus5": "NA",
+                                        "minus6": "NA",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    }
+                                }
+                            },
+                            "pelvis": {
+                                "plus6": "GREEN",
+                                "plus5": "GREEN",
+                                "plus4": "GREEN",
+                                "plus3": "GREEN",
+                                "plus2": "GREEN",
+                                "plus1": "GREEN",
+                                "zero": "GREEN",
+                                "minus1": "GREEN",
+                                "minus2": "GREEN",
+                                "minus3": "GREEN",
+                                "minus4": "GREEN",
+                                "minus5": "GREEN",
+                                "minus6": "GREEN"
+                            },
+                            "kneeTibia": {
+                                "plus5": "GREEN",
+                                "plus4": "GREEN",
+                                "plus3": "GREEN",
+                                "plus2": "GREEN",
+                                "plus1": "GREEN",
+                                "zero": "GREEN",
+                                "minus1": "GREEN",
+                                "minus2": "GREEN",
+                                "minus3": "GREEN",
+                                "minus4": "GREEN",
+                                "minus5": "GREEN"
+                            }
+                        },
+                        "score": 28.8,
+                        "maxScore": 36
+                    },
+                    "VRUImpactMitigation": {
+                        "AEBPedestrian": {
+                            "score": 0,
+                            "maxScore": 6,
+                            "verdict": "GREY"
+                        },
+                        "score": 0,
+                        "maxScore": 6
+                    }
+                },
+                "safetyAssist": {
+                    "score": 6,
+                    "maxScore": 12,
+                    "normalisedScore": 49,
+                    "speedAssistance": {
+                        "score": 1.5,
+                        "maxScore": 3,
+                        "speedLimitInfoFunction": {
+                            "description": "NA"
+                        },
+                        "speedControlFunction": {
+                            "description": "Manually set (accurate to 5km/h)"
+                        }
+                    },
+                    "laneSupport": {
+                        "score": 0,
+                        "verdict": "GREY",
+                        "maxScore": 3
+                    },
+                    "AEBCarToCar": {
+                        "score": 1.5,
+                        "CCRs": {
+                            "day": "GREEN"
+                        },
+                        "CCRm": {
+                            "day": "YELLOW"
+                        },
+                        "CCRb": {
+                            "day": "ORANGE"
+                        },
+                        "system": {
+                            "name": "AEB - FCW",
+                            "type": "Forward Collision Warning with Auto-Brake"
+                        }
+                    },
+                    "occupantStatusMonitoring": {
+                        "score": 3,
+                        "seatbeltReminder": {
+                            "score": 3,
+                            "visualWarning": {
+                                "seat3": "PASS",
+                                "rear": "PASS",
+                                "seat1": "PASS"
+                            },
+                            "audibleWarning": {
+                                "seat3": "PASS",
+                                "rear": "PASS",
+                                "seat1": "PASS"
+                            },
+                            "occupantDetection": {
+                                "seat1": "NOT_APPLICABLE"
+                            }
+                        }
+                    }
+                }
+            },
+            "safetyEquipment": {
+                "frontalCrashProtection": {
+                    "frontalAirbag": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_AVAILABLE",
+                        "row3": "NOT_APPLICABLE"
+                    },
+                    "beltPretensioner": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "FITTED_STANDARD"
+                    },
+                    "beltLoadLimiter": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "FITTED_STANDARD"
+                    },
+                    "kneeAirbag": {
+                        "seat1": "NOT_AVAILABLE",
+                        "seat3": "NOT_AVAILABLE",
+                        "row2": "NOT_AVAILABLE",
+                        "row3": "NOT_APPLICABLE"
+                    }
+                },
+                "lateralCrashProtection": {
+                    "sideHeadAirbag": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "FITTED_STANDARD"
+                    },
+                    "sideChestAirbag": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "sidePelvisAirbag": {
+                        "seat1": "NOT_AVAILABLE",
+                        "seat3": "NOT_AVAILABLE",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "centreAirbag": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "NOT_APPLICABLE",
+                        "row2": "NOT_APPLICABLE",
+                        "row3": "NOT_APPLICABLE"
+                    }
+                },
+                "childProtection": {
+                    "isofix": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "FITTED_STANDARD"
+                    },
+                    "iSize": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "FITTED_STANDARD"
+                    },
+                    "integratedChildSeat": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "NOT_AVAILABLE",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "airbagCutOffSwitch": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_APPLICABLE",
+                        "row3": "NOT_APPLICABLE"
+                    },
+                    "childPresenceDetection": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "NOT_APPLICABLE",
+                        "row2": "NOT_APPLICABLE",
+                        "row3": "NOT_APPLICABLE"
+                    }
+                },
+                "safetyAssist": {
+                    "seatbeltReminder": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "FITTED_STANDARD"
+                    }
+                },
+                "otherSystems": {
+                    "activeBonnet": "NOT_AVAILABLE",
+                    "AEBVulnerableRoadUsers": "NOT_APPLICABLE",
+                    "AEBPedestrianReverse": "NOT_APPLICABLE",
+                    "cyclistDooringPrevention": "NOT_APPLICABLE",
+                    "AEBMotorcyclist": "NOT_APPLICABLE",
+                    "AEBCarToCar": "NOT_APPLICABLE",
+                    "speedAssistance": "FITTED_STANDARD",
+                    "laneAssistSystem": "OPTIONAL",
+                    "fatigueDetection": "NOT_APPLICABLE",
+                    "distractionDetection": "NOT_APPLICABLE"
+                }
+            }
+        }
+    },
+    "carSafety": {
+        "safetyRatingStars": 4,
+        "hasSafetyPack": false,
+        "safetyPackName": null,
+        "withSPAssessmentId": "0665sp",
+        "withoutSPAssessmentId": null,
+        "assistedDrivingAssessmentId": null,
+        "assessmentReviews": [
+            {
+                "id": "2ea06062-8050-4e24-bb23-6f1dd88c7940",
+                "createdAt": "2026-03-02T12:24:25.447279+00:00",
+                "updatedAt": "2026-03-24T16:49:46.486406+00:00",
+                "event": {
+                    "code": "RATING_PUBLISHED",
+                    "name": "Rating Published"
+                },
+                "reviewDate": "2017-05-31",
+                "result": 5,
+                "ratingYear": 2017
+            },
+            {
+                "id": "470291ec-530f-4df6-83c5-28deb6a403b7",
+                "createdAt": "2026-03-03T11:32:40.312109+00:00",
+                "updatedAt": "2026-03-24T16:49:46.486406+00:00",
+                "event": {
+                    "code": "RATING_EXPIRED",
+                    "name": "Rating Expired"
+                },
+                "reviewDate": "2024-01-01",
+                "result": 5,
+                "ratingYear": 2017
+            }
+        ]
+    },
+    "carAssistedDriving": null,
+    "truckSafety": null,
+    "vanSafety": null,
+    "model": {
+        "id": "80c684f2-2b57-4c43-a54d-b129ab1bfb49",
+        "createdAt": "2026-01-21T19:16:59.754027+00:00",
+        "updatedAt": "2026-01-21T19:16:59.754027+00:00",
+        "code": "NISSAN_MICRA",
+        "name": "Micra",
+        "class": {
+            "code": "CITY_CAR",
+            "name": "City Car"
+        },
+        "vehicleType": {
+            "code": "CAR",
+            "name": "Car"
+        }
+    },
+    "make": {
+        "id": "2d24f04b-fade-4a44-a94b-0efdaf4d8a4c",
+        "createdAt": "2026-01-21T19:13:55.297945+00:00",
+        "updatedAt": "2026-03-19T12:56:05.058114+00:00",
+        "code": "NIS",
+        "name": "Nissan",
+        "logoPath": "https://data-cdn.euroncap.com/media/make-logo/NIS_logo__7eb75c59666ff919_original.svg",
+        "negLogoPath": "https://data-cdn.euroncap.com/media/make-logo/NIS_negLogo__5526a00e20fd84e8_original.svg",
+        "logo": {
+            "url": "https://data-cdn.euroncap.com/media/make-logo/NIS_logo__7eb75c59666ff919_original.svg",
+            "width": null,
+            "height": null,
+            "formats": null
+        },
+        "negativeLogo": {
+            "url": "https://data-cdn.euroncap.com/media/make-logo/NIS_negLogo__5526a00e20fd84e8_original.svg",
+            "width": null,
+            "height": null,
+            "formats": null
+        }
+    },
+    "assessmentMedia": [
+        {
+            "id": "035563c3-781b-4cea-a9ed-bded57e3c1d2",
+            "createdAt": "2026-03-24T11:47:35.58001+00:00",
+            "updatedAt": "2026-03-24T16:50:29.832091+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__7e697d65e12ddb2a_original.png",
+            "altText": null,
+            "sortOrder": 0,
+            "width": 359,
+            "height": 235,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__e37055028c72ba3e_lg.webp",
+                    "width": 359,
+                    "height": 235
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__4aefc6b2afd1f114_sm.webp",
+                    "width": 320,
+                    "height": 209
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__e37055028c72ba3e_md.webp",
+                    "width": 359,
+                    "height": 235
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__e37055028c72ba3e_xl.webp",
+                    "width": 359,
+                    "height": 235
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017__7acbf5bae2b9efc0_thumb.webp",
+                    "width": 156,
+                    "height": 102
+                }
+            }
+        },
+        {
+            "id": "1b2f62e0-8f88-4ac4-b6fb-062ad3cc1959",
+            "createdAt": "2026-02-13T09:07:20.70582+00:00",
+            "updatedAt": "2026-03-24T16:50:29.858228+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB__db98bfaf78cc6bbf_original.jpg",
+            "altText": null,
+            "sortOrder": 1,
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB__d7b5a85dd52141c6_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB__8385788685a6e034_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB__25b39f70fb9d8fcc_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB__38f6c1bcdbff1079_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB__d2511d1a93693c57_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "3dcb5c83-c4b2-474d-b5ae-2507150f0ff2",
+            "createdAt": "2026-02-13T09:07:31.760839+00:00",
+            "updatedAt": "2026-03-24T16:50:29.877984+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB1__c403e770b093454b_original.jpg",
+            "altText": null,
+            "sortOrder": 2,
+            "width": 4256,
+            "height": 2832,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB1__8ea7848154130b13_lg.webp",
+                    "width": 1200,
+                    "height": 798
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB1__af74f2f292b95a9f_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB1__d7b5c7f837e80721_md.webp",
+                    "width": 768,
+                    "height": 511
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB1__ff2b08110c8c030b_xl.webp",
+                    "width": 2400,
+                    "height": 1597
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_ODB1__36c0a236b8a9aca5_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "c96b5c64-2122-49d9-a8c6-6448ec43ba17",
+            "createdAt": "2026-02-13T09:07:36.973076+00:00",
+            "updatedAt": "2026-03-24T16:50:29.897363+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW__01e87a3df31df71c_original.jpg",
+            "altText": null,
+            "sortOrder": 3,
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW__7adbb3e2f88a1a02_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW__6a9c074083ad2a48_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW__c605be6815eb55cc_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW__03101f486dc78ab5_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW__a51217247c1e0f27_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "15f29656-7e69-46e3-89c6-7749bd603e47",
+            "createdAt": "2026-02-13T09:07:49.548804+00:00",
+            "updatedAt": "2026-03-24T16:50:29.910665+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW1__c46361e96fcc2f4f_original.jpg",
+            "altText": null,
+            "sortOrder": 4,
+            "width": 1920,
+            "height": 1278,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW1__cae6be3f2f5a7aa4_lg.webp",
+                    "width": 1200,
+                    "height": 799
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW1__85d661a85678b119_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW1__41a5f990e809c7e4_md.webp",
+                    "width": 768,
+                    "height": 511
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW1__8b33c06ddee16b23_xl.webp",
+                    "width": 1920,
+                    "height": 1278
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_FW1__45d3a5f05663f627_thumb.webp",
+                    "width": 156,
+                    "height": 103
+                }
+            }
+        },
+        {
+            "id": "30dd4922-8aeb-42db-b1fe-2035daa06361",
+            "createdAt": "2026-02-13T09:07:56.411969+00:00",
+            "updatedAt": "2026-03-24T16:50:29.936789+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD__7399dc61a5c699b8_original.jpg",
+            "altText": null,
+            "sortOrder": 5,
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD__4f98e26d6bb63cd7_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD__8eafe0ae86adbf9b_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD__c79b088dc0b2222a_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD__5b712f872667f16b_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD__7335ae8090d5ea8d_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "f928bad6-4de4-481f-9287-29d00a3e8c7d",
+            "createdAt": "2026-02-13T09:08:08.238019+00:00",
+            "updatedAt": "2026-03-24T16:50:29.949038+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD1__9f96b08a118a2333_original.jpg",
+            "altText": null,
+            "sortOrder": 6,
+            "width": 4256,
+            "height": 2832,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD1__fb16248edcd1e8a4_lg.webp",
+                    "width": 1200,
+                    "height": 798
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD1__8dfa8a5d142ca043_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD1__f8feeb9c136b7b67_md.webp",
+                    "width": 768,
+                    "height": 511
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD1__3f1da6bf2c93bb73_xl.webp",
+                    "width": 2400,
+                    "height": 1597
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_MD1__3f6c48484cb5bbbf_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "0776eb1d-e2a5-460f-bf31-5afcdb690d90",
+            "createdAt": "2026-02-13T09:08:13.690968+00:00",
+            "updatedAt": "2026-03-24T16:50:29.978341+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO__cf33a011c551ce94_original.jpg",
+            "altText": null,
+            "sortOrder": 7,
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO__95f52c7f079cbcd0_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO__c1f30c66051c22bf_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO__8566f1f60dc5d940_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO__bbd7c09428d04ed7_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO__d1d37f3c1f2a4045_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "36f64493-a50d-4864-9d6f-40cb0c57835d",
+            "createdAt": "2026-02-13T09:08:28.775613+00:00",
+            "updatedAt": "2026-03-24T16:50:30.004508+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO1__91a18f70798bbfee_original.jpg",
+            "altText": null,
+            "sortOrder": 8,
+            "width": 6016,
+            "height": 4016,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO1__eae856641e9f5e37_lg.webp",
+                    "width": 1200,
+                    "height": 801
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO1__09d35f604697ed90_sm.webp",
+                    "width": 320,
+                    "height": 214
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO1__73aa9eb35f4d21f3_md.webp",
+                    "width": 768,
+                    "height": 513
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO1__57066101e9b51a00_xl.webp",
+                    "width": 2400,
+                    "height": 1602
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/c1eb1c62-e0e9-4af0-836b-9228143755f9/Nissan_Micra_2017_PO1__1bd2ca96b1cf56ae_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "dbd3d6cd-b772-41d6-86f5-e7e9b4e717dd",
+            "createdAt": "2026-03-23T03:42:54.028664+00:00",
+            "updatedAt": "2026-03-24T16:50:30.072065+00:00",
+            "mediaType": "VIDEO",
+            "url": "https://www.youtube.com/watch?v=etYQPuF1Uuc",
+            "altText": null,
+            "sortOrder": 20,
+            "width": null,
+            "height": null,
+            "formats": null
+        }
+    ],
+    "protocol": {
+        "id": "d377d117-28d5-4bca-8cda-7c60931b56cf",
+        "createdAt": "2026-01-28T09:03:17.94318+00:00",
+        "updatedAt": "2026-01-28T09:03:17.94318+00:00",
+        "protocolYear": 2017
+    },
+    "variants": [
+        {
+            "id": "f35b3416-1e1e-4847-9641-8e58e44b547d",
+            "isTestedVariant": false,
+            "ratingAppliesToVariant": true,
+            "ratingAppliesToLHD": true,
+            "ratingAppliesToRHD": true,
+            "genericVariantData": {
+                "id": "1111ca1f-fb1a-40bb-a9c3-a3f6dc80b9a8",
+                "createdAt": "2026-01-21T19:22:11.664056+00:00",
+                "updatedAt": "2026-03-24T11:40:01.325415+00:00",
+                "variantName": "1.5 litre diesel - Nissan Micra",
+                "sectorType": null,
+                "bodyType": {
+                    "code": "HATCHBACK",
+                    "name": "Hatchback"
+                },
+                "numberOfDoors": 5,
+                "chassisHeight": null,
+                "chassisWheelbase": null,
+                "motorType": null,
+                "powerTrainType": {
+                    "code": "4X2",
+                    "name": "4x2"
+                },
+                "engineType": null,
+                "fuelType": null,
+                "powerOutput": null,
+                "fuelCapacity": null,
+                "batteryCapacity": null,
+                "testWeight": null,
+                "kerbWeight": null,
+                "payload": null,
+                "trailerType": null,
+                "trailerAxles": null,
+                "priceRange": 0,
+                "vehicleCategory": {
+                    "code": "M1",
+                    "name": "M1"
+                },
+                "seatArrangement": null
+            }
+        },
+        {
+            "id": "ea85d5fd-afb8-48ac-bc11-01ace1ca3d1f",
+            "isTestedVariant": false,
+            "ratingAppliesToVariant": true,
+            "ratingAppliesToLHD": true,
+            "ratingAppliesToRHD": true,
+            "genericVariantData": {
+                "id": "a7db2dcb-bf99-453f-a44e-e3cb54f4b22d",
+                "createdAt": "2026-01-21T19:22:11.645414+00:00",
+                "updatedAt": "2026-03-24T11:40:01.326171+00:00",
+                "variantName": "1.0 litre petrol - Nissan Micra",
+                "sectorType": null,
+                "bodyType": {
+                    "code": "HATCHBACK",
+                    "name": "Hatchback"
+                },
+                "numberOfDoors": 5,
+                "chassisHeight": null,
+                "chassisWheelbase": null,
+                "motorType": null,
+                "powerTrainType": {
+                    "code": "4X2",
+                    "name": "4x2"
+                },
+                "engineType": null,
+                "fuelType": null,
+                "powerOutput": null,
+                "fuelCapacity": null,
+                "batteryCapacity": null,
+                "testWeight": null,
+                "kerbWeight": null,
+                "payload": null,
+                "trailerType": null,
+                "trailerAxles": null,
+                "priceRange": 0,
+                "vehicleCategory": {
+                    "code": "M1",
+                    "name": "M1"
+                },
+                "seatArrangement": null
+            }
+        },
+        {
+            "id": "ea7952f7-221a-4cf7-b8d8-3caa10e712f0",
+            "isTestedVariant": true,
+            "ratingAppliesToVariant": true,
+            "ratingAppliesToLHD": true,
+            "ratingAppliesToRHD": true,
+            "genericVariantData": {
+                "id": "6fe10107-2bbf-46bc-86ff-a0199e741f94",
+                "createdAt": "2026-01-21T19:22:11.646318+00:00",
+                "updatedAt": "2026-03-24T11:40:01.319996+00:00",
+                "variantName": "0.9 litre petrol - Nissan Micra",
+                "sectorType": null,
+                "bodyType": {
+                    "code": "HATCHBACK",
+                    "name": "Hatchback"
+                },
+                "numberOfDoors": 5,
+                "chassisHeight": null,
+                "chassisWheelbase": null,
+                "motorType": null,
+                "powerTrainType": {
+                    "code": "4X2",
+                    "name": "4x2"
+                },
+                "engineType": null,
+                "fuelType": null,
+                "powerOutput": null,
+                "fuelCapacity": null,
+                "batteryCapacity": null,
+                "testWeight": null,
+                "kerbWeight": null,
+                "payload": null,
+                "trailerType": null,
+                "trailerAxles": null,
+                "priceRange": 0,
+                "vehicleCategory": {
+                    "code": "M1",
+                    "name": "M1"
+                },
+                "seatArrangement": null
+            }
+        }
+    ]
+}

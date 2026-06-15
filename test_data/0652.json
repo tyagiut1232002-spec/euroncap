@@ -1,0 +1,1909 @@
+{
+    "id": "0652",
+    "internalId": "f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3",
+    "createdAt": "2026-01-28T09:12:04.805Z",
+    "updatedAt": "2026-03-24T16:49:45.549Z",
+    "status": {
+        "code": "PUBLISHED",
+        "name": "Published"
+    },
+    "assessmentType": {
+        "code": "CAR_SAFETY",
+        "name": "Car Safety"
+    },
+    "assessmentDiagrams": [
+        {
+            "id": "8f2bb9e8-72de-4818-b019-1333eb8cfdc5",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_frontal_impact-2026__35e64e12689e417b_original.png",
+            "altText": "",
+            "diagramType": "cop_crash_test_performance_frontal_impact",
+            "diagramVersion": "2026",
+            "width": 2070,
+            "height": 1340,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_frontal_impact-2026__ed1d51b9e4539920_lg.webp",
+                    "width": 1200,
+                    "height": 777
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_frontal_impact-2026__56b4c43856e1720e_sm.webp",
+                    "width": 320,
+                    "height": 207
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_frontal_impact-2026__2f5da14b03bddb5c_md.webp",
+                    "width": 768,
+                    "height": 497
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_frontal_impact-2026__e83d1c0cbc1eb509_xl.webp",
+                    "width": 2070,
+                    "height": 1340
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_frontal_impact-2026__081dd44749f44866_thumb.webp",
+                    "width": 156,
+                    "height": 101
+                }
+            }
+        },
+        {
+            "id": "318bf43b-4851-4cc2-a819-1c89857cfff7",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isofix-2026__d3acd0e9ed1e64f0_original.png",
+            "altText": "",
+            "diagramType": "cop_crs_installation_check_isofix",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isofix-2026__e1dbe2e8e0f6050d_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isofix-2026__3740abe51bc75455_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isofix-2026__04a28da6f1a968c5_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isofix-2026__b13c626584b9a4e9_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isofix-2026__bfbfa906b4f6c79d_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "55585d2f-eb00-4ef0-91c6-db93e7d98a77",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/vru_impact_protection-2022__fffe736a3a3932a3_original.png",
+            "altText": "Vulnerable road user impact protection",
+            "diagramType": "vru_impact_protection",
+            "diagramVersion": "2022",
+            "width": 900,
+            "height": 1000,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/vru_impact_protection-2022__2e9c7c1f3926da6b_lg.webp",
+                    "width": 900,
+                    "height": 1000
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/vru_impact_protection-2022__01e3188463d60087_sm.webp",
+                    "width": 320,
+                    "height": 356
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/vru_impact_protection-2022__7168d010df6f6797_md.webp",
+                    "width": 768,
+                    "height": 853
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/vru_impact_protection-2022__2e9c7c1f3926da6b_xl.webp",
+                    "width": 900,
+                    "height": 1000
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/vru_impact_protection-2022__52dafc2eaaa4ff91_thumb.webp",
+                    "width": 156,
+                    "height": 173
+                }
+            }
+        },
+        {
+            "id": "a94b8f73-aa1f-4026-b083-44790506db8c",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_mpdb_dummies-2026__013acd1fcab49a54_original.png",
+            "altText": "",
+            "diagramType": "aop_frontal_impact_mpdb_dummies",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_mpdb_dummies-2026__17916bab7da07406_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_mpdb_dummies-2026__e914e22963367e40_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_mpdb_dummies-2026__46d28627dba177e7_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_mpdb_dummies-2026__5c750c4647f90512_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_mpdb_dummies-2026__d23975127418d568_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "7b9c5a2b-16ed-4d0c-9535-921d87417afe",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_mobile_barrier-2026__6d267a36f70d861f_original.png",
+            "altText": "",
+            "diagramType": "aop_lateral_impact_side_mobile_barrier",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_mobile_barrier-2026__9f1ba605b9949ec3_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_mobile_barrier-2026__ce901f2bc25b60d8_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_mobile_barrier-2026__b8c3d2b780f3a119_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_mobile_barrier-2026__e66dd46e96a45f0b_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_mobile_barrier-2026__3843c6ff1065c846_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "5f0f914d-2b3f-4b38-8eef-79cfbd8953a8",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_occupant_interaction-2026__f50a303028295c9c_original.png",
+            "altText": "",
+            "diagramType": "aop_lateral_impact_occupant_interaction",
+            "diagramVersion": "2026",
+            "width": 3720,
+            "height": 2480,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_occupant_interaction-2026__94e6931955c7849f_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_occupant_interaction-2026__2f3fc7b42c1e9aed_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_occupant_interaction-2026__a5f73b724bafde38_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_occupant_interaction-2026__50b127908ab80cc1_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_occupant_interaction-2026__dc7a6539aa23af8b_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "37fb9c2d-e72c-4ed4-823d-54c7c9a53b0d",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_far_side_excursion-2026__92765872eae5e336_original.png",
+            "altText": "",
+            "diagramType": "aop_lateral_impact_far_side_excursion",
+            "diagramVersion": "2026",
+            "width": 3720,
+            "height": 2480,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_far_side_excursion-2026__d9a5eee2a8280452_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_far_side_excursion-2026__8ee57d82f2cd1824_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_far_side_excursion-2026__bf922bea310aa3ae_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_far_side_excursion-2026__ad2825be8ee24414_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_far_side_excursion-2026__2396b4a2fbbdade5_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "05da28b5-5ffe-4b14-9639-a0f0803f5292",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_rear_seat-2026__648679038ad542da_original.png",
+            "altText": "",
+            "diagramType": "aop_rear_impact_rear_seat",
+            "diagramVersion": "2026",
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_rear_seat-2026__09117248a530c0c8_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_rear_seat-2026__5bf4e9c3f4d67690_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_rear_seat-2026__5eeb0a87190ef13e_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_rear_seat-2026__2c95d5669e39a92f_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_rear_seat-2026__d18cb26015fcc98b_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "d6cbbfa9-ef7d-4a00-ac76-ec235c440db9",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_front_seat-2026__501daec489bb7dba_original.png",
+            "altText": "",
+            "diagramType": "aop_rear_impact_front_seat",
+            "diagramVersion": "2026",
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_front_seat-2026__f2dc8f6ca1c1c40f_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_front_seat-2026__8c7a911216ff85a7_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_front_seat-2026__2948b4cfbaea4a88_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_front_seat-2026__bb5b4c82db345e69_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_rear_impact_front_seat-2026__d5b2221bf6297066_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "cbcec926-52d2-48ba-8e65-de66e81c97db",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_fwrb-2026__fa367130158cc9ec_original.png",
+            "altText": "",
+            "diagramType": "aop_frontal_impact_fwrb",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_fwrb-2026__a983d9888a629424_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_fwrb-2026__c21a67c3d7cf1df3_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_fwrb-2026__e5bca20f633faf8f_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_fwrb-2026__2aada7b94c1bc93f_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_frontal_impact_fwrb-2026__d1770a6f8c007806_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "7c3558bc-ec05-4c5b-ae03-fdacf6fc9448",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_pole-2026__b18899e23e1428fb_original.png",
+            "altText": "",
+            "diagramType": "aop_lateral_impact_side_pole",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_pole-2026__dbfc56e3ec08828d_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_pole-2026__3fa4f0855a9ed376_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_pole-2026__cb033c986b4edc11_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_pole-2026__113fc8b9260bb640_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/aop_lateral_impact_side_pole-2026__bcce5bf67185fa67_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "0b98529d-6dc9-4a13-8bd0-8ec86fa1cc55",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_lateral_impact-2026__053d1aa5d16b1e37_original.png",
+            "altText": "",
+            "diagramType": "cop_crash_test_performance_lateral_impact",
+            "diagramVersion": "2026",
+            "width": 2070,
+            "height": 1340,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_lateral_impact-2026__8dd8894d404c6f2b_lg.webp",
+                    "width": 1200,
+                    "height": 777
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_lateral_impact-2026__64e5eb68ae745725_sm.webp",
+                    "width": 320,
+                    "height": 207
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_lateral_impact-2026__eb4e96dc53dbf9f5_md.webp",
+                    "width": 768,
+                    "height": 497
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_lateral_impact-2026__2393721ed67fc79a_xl.webp",
+                    "width": 2070,
+                    "height": 1340
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crash_test_performance_lateral_impact-2026__be698ffa6dd82f8b_thumb.webp",
+                    "width": 156,
+                    "height": 101
+                }
+            }
+        },
+        {
+            "id": "24631d4d-2f53-472b-b2c4-6e725f7cd5ac",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isize-2026__57123abd9fa378a6_original.png",
+            "altText": "",
+            "diagramType": "cop_crs_installation_check_isize",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isize-2026__27cee5104c3aae3f_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isize-2026__adb0c35a3a07beac_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isize-2026__110c45ac3f55433a_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isize-2026__267db9f7d224e025_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_isize-2026__b338592941611a54_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "2cd47211-2edd-4b02-b21e-5aab40addce2",
+            "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_seatbelt-2026__ba8989487b47d09c_original.png",
+            "altText": "",
+            "diagramType": "cop_crs_installation_check_seatbelt",
+            "diagramVersion": "2026",
+            "width": 3072,
+            "height": 2048,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_seatbelt-2026__d2cd0372b25699d7_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_seatbelt-2026__ed3d2ff295c647f0_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_seatbelt-2026__9b26525803b04609_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_seatbelt-2026__458649e6a37500c0_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-diagrams/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/cop_crs_installation_check_seatbelt-2026__4518c8b6cebbc48a_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        }
+    ],
+    "publicationDate": "2017-01-25",
+    "publicationYear": "2017",
+    "ratingYear": 2017,
+    "SPRefNumber": "0652",
+    "umbracoRefNumber": "26063",
+    "rescueSheetURL": null,
+    "greenNcapURL": null,
+    "frontalImageURL": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__2a29a7b98cb46e1c_original.png",
+    "frontalImage": {
+        "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__2a29a7b98cb46e1c_original.png",
+        "altText": null,
+        "width": 688,
+        "height": 457,
+        "formats": {
+            "large": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__078f3d008ed64188_lg.webp",
+                "width": 688,
+                "height": 457
+            },
+            "small": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__70dc792206a37e7f_sm.webp",
+                "width": 320,
+                "height": 213
+            },
+            "medium": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__078f3d008ed64188_md.webp",
+                "width": 688,
+                "height": 457
+            },
+            "xlarge": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__078f3d008ed64188_xl.webp",
+                "width": 688,
+                "height": 457
+            },
+            "thumbnail": {
+                "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__0b0a01b670c27247_thumb.webp",
+                "width": 156,
+                "height": 104
+            }
+        }
+    },
+    "newsMarketURL": "https://euroncap.newsmarket.com/Find-a-car/all/ford-mustang---euro-ncap-results-2017/s/52b9d341-2f20-4b68-9d42-ad16123a7db1",
+    "resultApplicability": "all Mustang Fastbacks",
+    "comments": "<p>This assessment of the Ford Mustang is based on the vehicle that has been on sale since 2015. Ford has informed Euro NCAP that orders placed after May will receive an updated vehicle, which will be launched later in 2017, and will be equipped with Pre Collision Assist (with Pedestrian Detection, Forward Collision Warning and Autonomous Emergency Braking) and Lane Keeping Aid.</p><p>The passenger compartment of the Mustang remained stable in the frontal offset test.  Dummy readings indicated good protection of the knees and femurs of the driver and passenger dummies.  Analysis of the dummy data showed that the driver's head had 'bottomed out' the airbag i.e. there was insufficient pressure in the airbag to prevent the head from contacting the steering wheel through the deflated airbag material.  The head of the passenger dummy also bottomed out the airbag against the dashboard, owing to insufficient inflation of the airbag and inadequate restraint for larger statures by the front passenger seatbelt load-limiter.  The scores of both the driver and passenger were penalised for the airbag performance.  In the full-width rigid barrier test, protection of the driver was good apart from the chest, protection of which was adequate.  However, the rear seat passenger slipped under the lap portion of the seatbelt (a phenomenon known as 'submarining') and the score for the knee, femur and pelvis body region was penalised and protection was rated as poor.  Protection of the chest was also rated as poor as the rear seatbelt (which has neither pre-tensioners nor load-limiters) showed an excessively high tensile force in the test.  Dummy readings of head deceleration indicated weak protection of the head for the rear passenger.  In the side barrier test, the Mustang scored full points with good protection of all critical body areas.  Even in the more severe side pole test, protection of the chest was adequate and that of other body regions was good.  Tests on the front seats and head restraints demonstrated a marginal level of protection against whiplash injury in the event of a rear-end collision.  A geometric assessment of rear seats indicated poor whiplash protection in these seating positions.  The current Mustang is not equipped with an autonomous emergency braking (AEB) system, which would have provided greater whiplash protection.  However, Ford have indicated that the next version of the Mustang will have AEB.</p><p>For the impact tests, the 10 year dummy was sat on a booster cushion.  Owing to limited rear space the results of the dynamic tests on the 10 year dummy were done in a separate test.  In the frontal offset test, protection of the 10 year dummy was rated as at least adequate.  However, the shoulder belt slipped between the clavicle and the upper arm and the score for the dummy in this test was penalised.  Protection of the 6 year dummy, sat in a high-back booster, was rated as good and adequate for the head and neck respectively but dummy readings of chest deceleration indicated marginal chest protection.  In the side barrier test, dummy readings indicated good protection, apart from the head of the 10 year dummy.  The head bottomed out the side curtain airbag, making contact, through the deflated airbag material, with the trim on the C pillar.  Consequently, all points were lost for the 10 year dummy in this test.  The front passenger airbag can be disabled to allow a rearward-facing restraint to be used in that seating position.  However, information provided to the driver regarding the status of the airbag did not meet Euro NCAP's requirements and the system did not score any points.</p><p>The Mustang has an 'active' bonnet.  Sensors in the bumper detect when a pedestrian has been struck and actuators lift the bonnet, creating more space to the hard structures in the engine bay.  Ford demonstrated that the system worked robustly for a variety of pedestrian statures and over a range of speeds and, accordingly, the tests were performed in the raised (deployed) position.  Test results were good over almost the entire bonnet surface.  Protection of the pelvic region was poor in all areas tested but the bumper provided good protection to pedestrians' legs and scored maximum points in Euro NCAP's tests.  There is no AEB system on the current Mustang but Ford have indicated that the next version of the Mustang will have one.</p><p>The Mustang has a seatbelt reminder system for the front seats only and no other safety assistance features that qualify for points in Euro NCAP's rating scheme.  Ford have indicated that the successor to the current Mustang will be equipped with AEB.</p>",
+    "testedHandOfDrive": {
+        "code": "LHD",
+        "name": "left hand drive"
+    },
+    "assessmentTags": [
+        {
+            "code": "RATING_EXPIRED",
+            "name": "Rating Expired"
+        }
+    ],
+    "assessmentData": {
+        "carSafety": {
+            "safetyPerformance": {
+                "seatArrangement": "220",
+                "nicePublicationDate": "January 2017",
+                "ratingYear": 2017,
+                "testedModel": "Ford Mustang 5.0 Fastback, LHD",
+                "kerbWeight": 1768,
+                "totalScore": 51,
+                "starRating": 2,
+                "adultOccupant": {
+                    "score": 27.7,
+                    "maxScore": 38,
+                    "normalisedScore": 72,
+                    "frontalImpact": {
+                        "score": 11.6,
+                        "maxScore": 16,
+                        "offset": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50",
+                                    "head": "YELLOW",
+                                    "neck": "GREEN",
+                                    "chest": "YELLOW",
+                                    "leftFemur": "GREEN",
+                                    "rightFemur": "GREEN",
+                                    "leftTibia": "YELLOW",
+                                    "rightTibia": "YELLOW"
+                                },
+                                "seat3": {
+                                    "dummyType": "50",
+                                    "head": "YELLOW",
+                                    "neck": "GREEN",
+                                    "chest": "GREEN",
+                                    "leftFemur": "GREEN",
+                                    "rightFemur": "GREEN",
+                                    "leftTibia": "YELLOW",
+                                    "rightTibia": "YELLOW"
+                                }
+                            }
+                        },
+                        "FW": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "05",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "YELLOW",
+                                    "pelvis": "GREEN",
+                                    "leftFemur": "GREEN",
+                                    "rightFemur": "GREEN"
+                                },
+                                "seat6": {
+                                    "head": "BROWN",
+                                    "rightFemur": "RED",
+                                    "pelvis": "RED",
+                                    "neck": "YELLOW",
+                                    "leftFemur": "RED",
+                                    "chest": "RED",
+                                    "dummyType": "05"
+                                }
+                            }
+                        }
+                    },
+                    "sideImpact": {
+                        "score": 14.9,
+                        "MDB": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50",
+                                    "head": "GREEN",
+                                    "chest": "GREEN",
+                                    "abdomen": "GREEN",
+                                    "pelvis": "GREEN"
+                                }
+                            }
+                        },
+                        "sidePole": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50",
+                                    "head": "GREEN",
+                                    "chest": "YELLOW",
+                                    "abdomen": "GREEN",
+                                    "pelvis": "GREEN"
+                                }
+                            }
+                        },
+                        "farSide": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50"
+                                }
+                            }
+                        },
+                        "O2O": {
+                            "dummyVisual": {
+                                "seat1": {
+                                    "dummyType": "50"
+                                },
+                                "seat3": {
+                                    "dummyType": "50"
+                                }
+                            }
+                        }
+                    },
+                    "rearImpact": {
+                        "score": 1.2,
+                        "maxScore": 3,
+                        "dummyVisual": {
+                            "seat1": {
+                                "dummyType": "50",
+                                "neck": "ORANGE"
+                            },
+                            "seat4": {
+                                "dummyType": "50",
+                                "neck": "RED"
+                            }
+                        }
+                    },
+                    "AEBCity": {
+                        "score": 0,
+                        "maxScore": 3,
+                        "verdict": "Orange"
+                    }
+                },
+                "childOccupant": {
+                    "score": 15.8,
+                    "maxScore": 49,
+                    "normalisedScore": 32,
+                    "COPDynamic": {
+                        "score": 13.6,
+                        "maxScore": 24,
+                        "frontalImpact": {
+                            "score": 9.6,
+                            "maxScore": 16,
+                            "dummyVisual": {
+                                "seat4": {
+                                    "dummyType": "Q6",
+                                    "head": "GREEN",
+                                    "neck": "YELLOW",
+                                    "chest": "ORANGE"
+                                },
+                                "seat6": {
+                                    "dummyType": "Q10",
+                                    "head": "GREEN",
+                                    "neck": "YELLOW",
+                                    "chest": "YELLOW"
+                                }
+                            }
+                        },
+                        "sideImpact": {
+                            "score": 4,
+                            "maxScore": 8,
+                            "dummyVisual": {
+                                "seat4": {
+                                    "dummyType": "Q10",
+                                    "head": "RED",
+                                    "neck": "GREEN",
+                                    "chest": "GREEN"
+                                },
+                                "seat6": {
+                                    "dummyType": "Q6",
+                                    "head": "GREEN",
+                                    "neck": "GREEN",
+                                    "chest": "GREEN"
+                                }
+                            }
+                        },
+                        "childRestraints": {
+                            "6YearOld": {
+                                "name": "Britax Römer KidFix XP",
+                                "type": {
+                                    "code": "HB",
+                                    "name": "Highback booster"
+                                }
+                            },
+                            "10YearOld": {
+                                "name": "Booster cushion",
+                                "type": {
+                                    "code": "BC",
+                                    "name": "Booster cushion"
+                                }
+                            }
+                        }
+                    },
+                    "safetyFeatures": {
+                        "score": 0,
+                        "maxScore": 13,
+                        "features": {
+                            "isofix": {
+                                "frontPassenger": "NOT_AVAILABLE",
+                                "row2Outboard": "FITTED_STANDARD",
+                                "row2Centre": "NOT_APPLICABLE"
+                            },
+                            "iSize": {
+                                "frontPassenger": "NOT_AVAILABLE",
+                                "row2Outboard": "NOT_AVAILABLE",
+                                "row2Centre": "NOT_APPLICABLE"
+                            },
+                            "topTether": {
+                                "frontPassenger": "NOT_APPLICABLE",
+                                "row2Outboard": "NOT_APPLICABLE",
+                                "row2Centre": "NOT_APPLICABLE"
+                            },
+                            "childPresenceDetection": {
+                                "frontPassenger": "NOT_APPLICABLE",
+                                "row2Outboard": "NOT_APPLICABLE",
+                                "row2Centre": "NOT_APPLICABLE"
+                            },
+                            "IntegratedCRS": {
+                                "frontPassenger": "NOT_AVAILABLE",
+                                "row2Outboard": "NOT_AVAILABLE",
+                                "row2Centre": "NOT_APPLICABLE"
+                            }
+                        }
+                    },
+                    "CRSInstallationCheck": {
+                        "score": 2.2,
+                        "maxScore": 12,
+                        "elements": {
+                            "iSize": {
+                                "interiorVisual": {
+                                    "seat1": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat2": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat3": {
+                                        "verdict": "NOT_ALLOWED"
+                                    },
+                                    "seat4": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat5": {
+                                        "verdict": "NOT_ALLOWED"
+                                    },
+                                    "seat6": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat7": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat8": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat9": {
+                                        "verdict": "NA"
+                                    }
+                                }
+                            },
+                            "isofix": {
+                                "interiorVisual": {
+                                    "seat1": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat2": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat3": {
+                                        "verdict": "NOT_ALLOWED"
+                                    },
+                                    "seat4": {
+                                        "verdict": "FAIL"
+                                    },
+                                    "seat5": {
+                                        "verdict": "NOT_ALLOWED"
+                                    },
+                                    "seat6": {
+                                        "verdict": "FAIL"
+                                    },
+                                    "seat7": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat8": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat9": {
+                                        "verdict": "NA"
+                                    }
+                                }
+                            },
+                            "beltAttached": {
+                                "interiorVisual": {
+                                    "seat1": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat2": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat3": {
+                                        "verdict": "FAIL"
+                                    },
+                                    "seat4": {
+                                        "verdict": "FAIL"
+                                    },
+                                    "seat5": {
+                                        "verdict": "NOT_ALLOWED"
+                                    },
+                                    "seat6": {
+                                        "verdict": "FAIL"
+                                    },
+                                    "seat7": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat8": {
+                                        "verdict": "NA"
+                                    },
+                                    "seat9": {
+                                        "verdict": "NA"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "vulnerableRoadUsers": {
+                    "score": 27,
+                    "maxScore": 42,
+                    "normalisedScore": 64,
+                    "VRUImpactProtection": {
+                        "head": {
+                            "score": 21,
+                            "maxScore": 24
+                        },
+                        "pelvis": {
+                            "score": 0,
+                            "maxScore": 6
+                        },
+                        "kneeTibia": {
+                            "score": 6,
+                            "maxScore": 6
+                        },
+                        "crashVisual": {
+                            "head": {
+                                "rowForWindow": 10,
+                                "rows": {
+                                    "row14": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "YELLOW",
+                                        "plus7": "NA",
+                                        "plus6": "NA",
+                                        "plus5": "NA",
+                                        "plus4": "NA",
+                                        "plus3": "NA",
+                                        "plus2": "NA",
+                                        "plus1": "NA",
+                                        "zero": "NA",
+                                        "minus1": "NA",
+                                        "minus2": "NA",
+                                        "minus3": "NA",
+                                        "minus4": "NA",
+                                        "minus5": "NA",
+                                        "minus6": "NA",
+                                        "minus7": "NA",
+                                        "minus8": "YELLOW",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row13": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "GREEN",
+                                        "plus7": "GREEN",
+                                        "plus6": "NA",
+                                        "plus5": "NA",
+                                        "plus4": "NA",
+                                        "plus3": "NA",
+                                        "plus2": "NA",
+                                        "plus1": "NA",
+                                        "zero": "NA",
+                                        "minus1": "NA",
+                                        "minus2": "NA",
+                                        "minus3": "NA",
+                                        "minus4": "NA",
+                                        "minus5": "NA",
+                                        "minus6": "NA",
+                                        "minus7": "GREEN",
+                                        "minus8": "GREEN",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row12": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "GREEN",
+                                        "plus6": "GREEN",
+                                        "plus5": "NA",
+                                        "plus4": "NA",
+                                        "plus3": "NA",
+                                        "plus2": "NA",
+                                        "plus1": "NA",
+                                        "zero": "NA",
+                                        "minus1": "NA",
+                                        "minus2": "NA",
+                                        "minus3": "NA",
+                                        "minus4": "NA",
+                                        "minus5": "NA",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row11": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "GREEN",
+                                        "plus6": "GREEN",
+                                        "plus5": "GREEN",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "GREEN",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row10": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "GREEN",
+                                        "plus6": "GREEN",
+                                        "plus5": "GREEN",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "GREEN",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row9": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "GREEN",
+                                        "plus6": "GREEN",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "YELLOW",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row8": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "GREEN",
+                                        "plus6": "GREEN",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "YELLOW",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row7": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "GREEN",
+                                        "plus6": "GREEN",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "YELLOW",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row6": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "GREEN",
+                                        "plus6": "GREEN",
+                                        "plus5": "GREEN",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "GREEN",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row5": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "GREEN",
+                                        "plus6": "GREEN",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "YELLOW",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "YELLOW",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row4": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "YELLOW",
+                                        "plus6": "GREEN",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "GREEN",
+                                        "plus2": "GREEN",
+                                        "plus1": "GREEN",
+                                        "zero": "GREEN",
+                                        "minus1": "GREEN",
+                                        "minus2": "GREEN",
+                                        "minus3": "GREEN",
+                                        "minus4": "GREEN",
+                                        "minus5": "YELLOW",
+                                        "minus6": "GREEN",
+                                        "minus7": "GREEN",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row3": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "ORANGE",
+                                        "plus6": "YELLOW",
+                                        "plus5": "YELLOW",
+                                        "plus4": "GREEN",
+                                        "plus3": "YELLOW",
+                                        "plus2": "YELLOW",
+                                        "plus1": "YELLOW",
+                                        "zero": "YELLOW",
+                                        "minus1": "YELLOW",
+                                        "minus2": "YELLOW",
+                                        "minus3": "YELLOW",
+                                        "minus4": "GREEN",
+                                        "minus5": "YELLOW",
+                                        "minus6": "YELLOW",
+                                        "minus7": "ORANGE",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row2": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "ORANGE",
+                                        "plus5": "ORANGE",
+                                        "plus4": "YELLOW",
+                                        "plus3": "YELLOW",
+                                        "plus2": "YELLOW",
+                                        "plus1": "YELLOW",
+                                        "zero": "YELLOW",
+                                        "minus1": "YELLOW",
+                                        "minus2": "YELLOW",
+                                        "minus3": "YELLOW",
+                                        "minus4": "YELLOW",
+                                        "minus5": "ORANGE",
+                                        "minus6": "ORANGE",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row1": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "NA",
+                                        "plus5": "RED",
+                                        "plus4": "BROWN",
+                                        "plus3": "BROWN",
+                                        "plus2": "BROWN",
+                                        "plus1": "BROWN",
+                                        "zero": "BROWN",
+                                        "minus1": "BROWN",
+                                        "minus2": "BROWN",
+                                        "minus3": "BROWN",
+                                        "minus4": "BROWN",
+                                        "minus5": "RED",
+                                        "minus6": "NA",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    },
+                                    "row0": {
+                                        "plus10": "NA",
+                                        "plus9": "NA",
+                                        "plus8": "NA",
+                                        "plus7": "NA",
+                                        "plus6": "NA",
+                                        "plus5": "NA",
+                                        "plus4": "NA",
+                                        "plus3": "NA",
+                                        "plus2": "NA",
+                                        "plus1": "NA",
+                                        "zero": "RED",
+                                        "minus1": "NA",
+                                        "minus2": "NA",
+                                        "minus3": "NA",
+                                        "minus4": "NA",
+                                        "minus5": "NA",
+                                        "minus6": "NA",
+                                        "minus7": "NA",
+                                        "minus8": "NA",
+                                        "minus9": "NA",
+                                        "minus10": "NA"
+                                    }
+                                }
+                            },
+                            "pelvis": {
+                                "plus10": "YELLOW",
+                                "plus9": "YELLOW",
+                                "plus8": "YELLOW",
+                                "plus7": "RED",
+                                "plus6": "RED",
+                                "plus5": "RED",
+                                "plus4": "RED",
+                                "plus3": "RED",
+                                "plus2": "RED",
+                                "plus1": "RED",
+                                "zero": "RED",
+                                "minus1": "RED",
+                                "minus2": "RED",
+                                "minus3": "RED",
+                                "minus4": "RED",
+                                "minus5": "RED",
+                                "minus6": "RED",
+                                "minus7": "RED",
+                                "minus8": "YELLOW",
+                                "minus9": "YELLOW",
+                                "minus10": "YELLOW"
+                            },
+                            "kneeTibia": {
+                                "plus10": "YELLOW",
+                                "plus9": "YELLOW",
+                                "plus8": "YELLOW",
+                                "plus7": "YELLOW",
+                                "plus6": "YELLOW",
+                                "plus5": "GREEN",
+                                "plus4": "GREEN",
+                                "plus3": "GREEN",
+                                "plus2": "GREEN",
+                                "plus1": "GREEN",
+                                "zero": "GREEN",
+                                "minus1": "GREEN",
+                                "minus2": "GREEN",
+                                "minus3": "GREEN",
+                                "minus4": "GREEN",
+                                "minus5": "GREEN",
+                                "minus6": "YELLOW",
+                                "minus7": "YELLOW",
+                                "minus8": "YELLOW",
+                                "minus9": "YELLOW",
+                                "minus10": "YELLOW"
+                            }
+                        },
+                        "score": 27,
+                        "maxScore": 36
+                    },
+                    "VRUImpactMitigation": {
+                        "AEBPedestrian": {
+                            "score": 0,
+                            "maxScore": 6,
+                            "verdict": "GREY"
+                        },
+                        "score": 0,
+                        "maxScore": 6
+                    }
+                },
+                "safetyAssist": {
+                    "score": 2,
+                    "maxScore": 12,
+                    "normalisedScore": 16,
+                    "speedAssistance": {
+                        "score": 0,
+                        "maxScore": 3
+                    },
+                    "laneSupport": {
+                        "score": 0,
+                        "verdict": "GREY",
+                        "maxScore": 3
+                    },
+                    "AEBCarToCar": {
+                        "score": 0,
+                        "CCRs": {
+                            "day": "GREY"
+                        },
+                        "CCRm": {
+                            "day": "GREY"
+                        },
+                        "CCRb": {
+                            "day": "GREY"
+                        }
+                    },
+                    "occupantStatusMonitoring": {
+                        "score": 2,
+                        "seatbeltReminder": {
+                            "score": 2,
+                            "visualWarning": {
+                                "seat3": "PASS",
+                                "seat1": "PASS"
+                            },
+                            "audibleWarning": {
+                                "seat3": "PASS",
+                                "seat1": "PASS"
+                            },
+                            "occupantDetection": {
+                                "seat1": "NOT_APPLICABLE"
+                            }
+                        }
+                    }
+                }
+            },
+            "safetyEquipment": {
+                "frontalCrashProtection": {
+                    "frontalAirbag": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_APPLICABLE",
+                        "row3": "NOT_APPLICABLE"
+                    },
+                    "beltPretensioner": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "beltLoadLimiter": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "kneeAirbag": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_APPLICABLE",
+                        "row3": "NOT_APPLICABLE"
+                    }
+                },
+                "lateralCrashProtection": {
+                    "sideHeadAirbag": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "FITTED_STANDARD"
+                    },
+                    "sideChestAirbag": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "sidePelvisAirbag": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "centreAirbag": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "NOT_APPLICABLE",
+                        "row2": "NOT_APPLICABLE",
+                        "row3": "NOT_APPLICABLE"
+                    }
+                },
+                "childProtection": {
+                    "isofix": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "NOT_AVAILABLE",
+                        "row2": "FITTED_STANDARD"
+                    },
+                    "iSize": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "NOT_AVAILABLE",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "integratedChildSeat": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "NOT_AVAILABLE",
+                        "row2": "NOT_AVAILABLE"
+                    },
+                    "airbagCutOffSwitch": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_APPLICABLE",
+                        "row3": "NOT_APPLICABLE"
+                    },
+                    "childPresenceDetection": {
+                        "seat1": "NOT_APPLICABLE",
+                        "seat3": "NOT_APPLICABLE",
+                        "row2": "NOT_APPLICABLE",
+                        "row3": "NOT_APPLICABLE"
+                    }
+                },
+                "safetyAssist": {
+                    "seatbeltReminder": {
+                        "seat1": "FITTED_STANDARD",
+                        "seat3": "FITTED_STANDARD",
+                        "row2": "NOT_AVAILABLE"
+                    }
+                },
+                "otherSystems": {
+                    "activeBonnet": "FITTED_STANDARD",
+                    "AEBVulnerableRoadUsers": "NOT_APPLICABLE",
+                    "AEBPedestrianReverse": "NOT_APPLICABLE",
+                    "cyclistDooringPrevention": "NOT_APPLICABLE",
+                    "AEBMotorcyclist": "NOT_APPLICABLE",
+                    "AEBCarToCar": "NOT_APPLICABLE",
+                    "speedAssistance": "NOT_AVAILABLE",
+                    "laneAssistSystem": "NOT_AVAILABLE",
+                    "fatigueDetection": "NOT_APPLICABLE",
+                    "distractionDetection": "NOT_APPLICABLE"
+                }
+            }
+        }
+    },
+    "carSafety": {
+        "safetyRatingStars": 2,
+        "hasSafetyPack": false,
+        "safetyPackName": null,
+        "withSPAssessmentId": null,
+        "withoutSPAssessmentId": null,
+        "assistedDrivingAssessmentId": null,
+        "assessmentReviews": [
+            {
+                "id": "ccb3431a-7a10-425c-8d70-d09d25daf578",
+                "createdAt": "2026-03-02T12:24:25.032118+00:00",
+                "updatedAt": "2026-03-24T16:49:45.549884+00:00",
+                "event": {
+                    "code": "RATING_PUBLISHED",
+                    "name": "Rating Published"
+                },
+                "reviewDate": "2017-01-25",
+                "result": 2,
+                "ratingYear": 2017
+            },
+            {
+                "id": "b0ce8a14-97c0-4e8f-9092-6cddc55ec780",
+                "createdAt": "2026-03-03T11:32:39.890737+00:00",
+                "updatedAt": "2026-03-24T16:49:45.549884+00:00",
+                "event": {
+                    "code": "RATING_EXPIRED",
+                    "name": "Rating Expired"
+                },
+                "reviewDate": "2024-01-01",
+                "result": 2,
+                "ratingYear": 2017
+            }
+        ]
+    },
+    "carAssistedDriving": null,
+    "truckSafety": null,
+    "vanSafety": null,
+    "model": {
+        "id": "dc692b42-b6a3-4a32-ac71-21f9c9b547ce",
+        "createdAt": "2026-01-21T19:16:26.899892+00:00",
+        "updatedAt": "2026-01-21T19:16:26.899892+00:00",
+        "code": "FORD_MUSTANG",
+        "name": "Mustang",
+        "class": {
+            "code": "ROADSTER",
+            "name": "Roadster"
+        },
+        "vehicleType": {
+            "code": "CAR",
+            "name": "Car"
+        }
+    },
+    "make": {
+        "id": "2212c0aa-ce25-4e67-9a6c-d0557d419401",
+        "createdAt": "2026-01-21T19:13:48.479667+00:00",
+        "updatedAt": "2026-03-19T12:55:56.343955+00:00",
+        "code": "FOR",
+        "name": "Ford",
+        "logoPath": "https://data-cdn.euroncap.com/media/make-logo/FOR_logo__b92829302d845e60_original.svg",
+        "negLogoPath": "https://data-cdn.euroncap.com/media/make-logo/FOR_negLogo__5951709460bc1887_original.svg",
+        "logo": {
+            "url": "https://data-cdn.euroncap.com/media/make-logo/FOR_logo__b92829302d845e60_original.svg",
+            "width": null,
+            "height": null,
+            "formats": null
+        },
+        "negativeLogo": {
+            "url": "https://data-cdn.euroncap.com/media/make-logo/FOR_negLogo__5951709460bc1887_original.svg",
+            "width": null,
+            "height": null,
+            "formats": null
+        }
+    },
+    "assessmentMedia": [
+        {
+            "id": "c70756e9-fad3-4a05-8677-e8006bb02892",
+            "createdAt": "2026-03-24T11:47:36.144337+00:00",
+            "updatedAt": "2026-03-24T16:50:16.973712+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__2a29a7b98cb46e1c_original.png",
+            "altText": null,
+            "sortOrder": 0,
+            "width": 688,
+            "height": 457,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__078f3d008ed64188_lg.webp",
+                    "width": 688,
+                    "height": 457
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__70dc792206a37e7f_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__078f3d008ed64188_md.webp",
+                    "width": 688,
+                    "height": 457
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__078f3d008ed64188_xl.webp",
+                    "width": 688,
+                    "height": 457
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017__0b0a01b670c27247_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "95bde484-85bc-4376-8346-313787f36547",
+            "createdAt": "2026-02-13T08:44:47.516139+00:00",
+            "updatedAt": "2026-03-24T16:50:16.996841+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB__d31df8cebeb89b7d_original.jpg",
+            "altText": null,
+            "sortOrder": 1,
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB__1787202bf363bf7e_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB__d28527909b22303c_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB__de4a93b3305046bc_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB__d710868506118149_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB__0f97676cef8fcaff_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "d524fe05-7632-478e-8cca-5713fd5aa194",
+            "createdAt": "2026-02-13T08:44:49.302022+00:00",
+            "updatedAt": "2026-03-24T16:50:17.035392+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB1__afaf503ee5f07554_original.jpg",
+            "altText": null,
+            "sortOrder": 2,
+            "width": 3456,
+            "height": 2304,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB1__ac068bfeff30d5d8_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB1__3358a93f8a07caff_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB1__3ac165c870a8e940_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB1__56edc7f8c5159c59_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_ODB1__9aaff481805a91bd_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "1c067494-8cab-449f-923a-e5f9cf6d25fe",
+            "createdAt": "2026-02-13T08:44:50.446206+00:00",
+            "updatedAt": "2026-03-24T16:50:17.070418+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW__4ec514af9f960512_original.jpg",
+            "altText": null,
+            "sortOrder": 3,
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW__27ff3512e37ecd10_lg.webp",
+                    "width": 1200,
+                    "height": 675
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW__455e1c8c189b2743_sm.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW__cda32f8fd987dc0d_md.webp",
+                    "width": 768,
+                    "height": 432
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW__a3ca60f46ce6d347_xl.webp",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW__89e44eea4a2fb396_thumb.webp",
+                    "width": 156,
+                    "height": 88
+                }
+            }
+        },
+        {
+            "id": "7e3f089e-c299-4825-8110-ba5f8ca5baf2",
+            "createdAt": "2026-02-13T08:44:51.887195+00:00",
+            "updatedAt": "2026-03-24T16:50:17.085406+00:00",
+            "mediaType": "IMAGE",
+            "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW1__4298a1d90c2500f6_original.jpg",
+            "altText": null,
+            "sortOrder": 4,
+            "width": 3456,
+            "height": 2304,
+            "formats": {
+                "large": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW1__9316299aa93db066_lg.webp",
+                    "width": 1200,
+                    "height": 800
+                },
+                "small": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW1__df1a7e12e739a737_sm.webp",
+                    "width": 320,
+                    "height": 213
+                },
+                "medium": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW1__8d7101c62ec5ef09_md.webp",
+                    "width": 768,
+                    "height": 512
+                },
+                "xlarge": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW1__b8327a83f1a1b339_xl.webp",
+                    "width": 2400,
+                    "height": 1600
+                },
+                "thumbnail": {
+                    "url": "https://data-cdn.euroncap.com/media/assessment-media/f1f9ec5b-b40a-4ef7-b0a9-a45474f81bd3/Ford_Mustang_2017_FW1__6d5e9c8f2e251d97_thumb.webp",
+                    "width": 156,
+                    "height": 104
+                }
+            }
+        },
+        {
+            "id": "13298d87-0900-44ad-8667-70b9f45ef223",
+            "createdAt": "2026-03-23T03:42:41.487855+00:00",
+            "updatedAt": "2026-03-24T16:50:17.114323+00:00",
+            "mediaType": "VIDEO",
+            "url": "https://www.youtube.com/watch?v=F0StTHnTKK8",
+            "altText": null,
+            "sortOrder": 20,
+            "width": null,
+            "height": null,
+            "formats": null
+        }
+    ],
+    "protocol": {
+        "id": "d377d117-28d5-4bca-8cda-7c60931b56cf",
+        "createdAt": "2026-01-28T09:03:17.94318+00:00",
+        "updatedAt": "2026-01-28T09:03:17.94318+00:00",
+        "protocolYear": 2017
+    },
+    "variants": [
+        {
+            "id": "5629aef7-5e97-42d8-af73-9e65ddfe4b38",
+            "isTestedVariant": false,
+            "ratingAppliesToVariant": false,
+            "ratingAppliesToLHD": false,
+            "ratingAppliesToRHD": false,
+            "genericVariantData": {
+                "id": "76e0ddcf-7287-405a-aa71-413423eb22f7",
+                "createdAt": "2026-01-26T08:51:09.983743+00:00",
+                "updatedAt": "2026-03-24T11:39:24.660063+00:00",
+                "variantName": "2.3 EcoBoost Manual and Automatic - Mustang Fastback 2.3 EcoBoost",
+                "sectorType": null,
+                "bodyType": {
+                    "code": "COUPE",
+                    "name": "Coupe"
+                },
+                "numberOfDoors": 2,
+                "chassisHeight": null,
+                "chassisWheelbase": null,
+                "motorType": null,
+                "powerTrainType": {
+                    "code": "4X2",
+                    "name": "4x2"
+                },
+                "engineType": null,
+                "fuelType": null,
+                "powerOutput": null,
+                "fuelCapacity": null,
+                "batteryCapacity": null,
+                "testWeight": null,
+                "kerbWeight": null,
+                "payload": null,
+                "trailerType": null,
+                "trailerAxles": null,
+                "priceRange": 0,
+                "vehicleCategory": {
+                    "code": "M1",
+                    "name": "M1"
+                },
+                "seatArrangement": null
+            }
+        },
+        {
+            "id": "69ca80f4-534b-40a3-80ec-62fe03a4940a",
+            "isTestedVariant": false,
+            "ratingAppliesToVariant": true,
+            "ratingAppliesToLHD": true,
+            "ratingAppliesToRHD": true,
+            "genericVariantData": {
+                "id": "ba36d0df-927f-4193-8423-6f75e414a0f5",
+                "createdAt": "2026-01-26T08:51:11.886744+00:00",
+                "updatedAt": "2026-03-24T11:39:24.659911+00:00",
+                "variantName": "2.3 EcoBoost Manual and Automatic - Mustang Convertible 2.3 EcoBoost",
+                "sectorType": null,
+                "bodyType": null,
+                "numberOfDoors": 2,
+                "chassisHeight": null,
+                "chassisWheelbase": null,
+                "motorType": null,
+                "powerTrainType": {
+                    "code": "4X2",
+                    "name": "4x2"
+                },
+                "engineType": null,
+                "fuelType": null,
+                "powerOutput": null,
+                "fuelCapacity": null,
+                "batteryCapacity": null,
+                "testWeight": null,
+                "kerbWeight": null,
+                "payload": null,
+                "trailerType": null,
+                "trailerAxles": null,
+                "priceRange": 0,
+                "vehicleCategory": {
+                    "code": "M1",
+                    "name": "M1"
+                },
+                "seatArrangement": null
+            }
+        },
+        {
+            "id": "d23dd9bc-6373-438c-9c4e-1eb3cb1d786d",
+            "isTestedVariant": false,
+            "ratingAppliesToVariant": false,
+            "ratingAppliesToLHD": false,
+            "ratingAppliesToRHD": false,
+            "genericVariantData": {
+                "id": "7de0bd23-9034-4aaa-91cc-f0479012ca9d",
+                "createdAt": "2026-01-26T08:51:11.939289+00:00",
+                "updatedAt": "2026-03-24T11:39:24.648891+00:00",
+                "variantName": "5.0 V8 Manual and Automatic - Mustang Convertible 5.0 V8",
+                "sectorType": null,
+                "bodyType": null,
+                "numberOfDoors": 2,
+                "chassisHeight": null,
+                "chassisWheelbase": null,
+                "motorType": null,
+                "powerTrainType": {
+                    "code": "4X2",
+                    "name": "4x2"
+                },
+                "engineType": null,
+                "fuelType": null,
+                "powerOutput": null,
+                "fuelCapacity": null,
+                "batteryCapacity": null,
+                "testWeight": null,
+                "kerbWeight": null,
+                "payload": null,
+                "trailerType": null,
+                "trailerAxles": null,
+                "priceRange": 0,
+                "vehicleCategory": {
+                    "code": "M1",
+                    "name": "M1"
+                },
+                "seatArrangement": null
+            }
+        },
+        {
+            "id": "806998d7-2080-4b63-8c5a-718f4fdc0554",
+            "isTestedVariant": true,
+            "ratingAppliesToVariant": true,
+            "ratingAppliesToLHD": true,
+            "ratingAppliesToRHD": true,
+            "genericVariantData": {
+                "id": "eafe9444-9a89-4984-912a-97775b902b80",
+                "createdAt": "2026-01-26T08:51:06.216076+00:00",
+                "updatedAt": "2026-03-24T11:39:24.661942+00:00",
+                "variantName": "5.0 V8 Manual and Automatic - Mustang Fastback 5.0 V8",
+                "sectorType": null,
+                "bodyType": {
+                    "code": "COUPE",
+                    "name": "Coupe"
+                },
+                "numberOfDoors": 2,
+                "chassisHeight": null,
+                "chassisWheelbase": null,
+                "motorType": null,
+                "powerTrainType": {
+                    "code": "4X2",
+                    "name": "4x2"
+                },
+                "engineType": null,
+                "fuelType": null,
+                "powerOutput": null,
+                "fuelCapacity": null,
+                "batteryCapacity": null,
+                "testWeight": null,
+                "kerbWeight": null,
+                "payload": null,
+                "trailerType": null,
+                "trailerAxles": null,
+                "priceRange": 0,
+                "vehicleCategory": {
+                    "code": "M1",
+                    "name": "M1"
+                },
+                "seatArrangement": null
+            }
+        }
+    ]
+}
