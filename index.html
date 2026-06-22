@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Euro NCAP Safety Prediction</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .container { max-width: 820px; margin: auto; }
+    label { display: block; margin: 12px 0 4px; font-weight: bold; }
+    input, select, button { width: 100%; padding: 10px; margin: 4px 0 12px; }
+    button { width: auto; cursor: pointer; }
+    .result { background: #f7fdf4; border: 1px solid #c8f0b4; padding: 16px; border-radius: 10px; margin-top: 20px; }
+    .error { background: #ffe8e8; border: 1px solid #f5b8b8; padding: 16px; border-radius: 10px; margin-top: 20px; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(240px, 1fr)); gap: 16px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Euro NCAP Safety Rating Prediction</h1>
+    <p>Enter feature values and click Predict to see the estimated safety category.</p>
+
+    <div class="grid">
+      <div>
+        <label for="kerb_weight">Kerb weight (kg)</label>
+        <input type="number" id="kerb_weight" value="1500" min="500" max="4000" step="1">
+      </div>
+      <div>
+        <label for="protocol_version">Protocol version</label>
+        <select id="protocol_version">
+          <option value="1">1 (2019 and earlier)</option>
+          <option value="2">2 (2020 - 2021)</option>
+          <option value="3">3 (2022 and later)</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="grid" id="boolean-fields"></div>
+
+    <button id="predict">Predict</button>
+
+    <div id="output"></div>
+  </div>
+
+  <script>
+    const fields = [
+      'seat1_knee_airbag',
+      'row2_side_chest_airbag',
+      'seat1_side_pelvis_airbag',
+      'seat3_side_pelvis_airbag',
+      'row2_side_pelvis_airbag',
+      'seat1_centre_lateral_airbag',
+      'seat3_centre_lateral_airbag',
+      'seat3_isofix',
+      'seat1_isize',
+      'seat3_isize',
+      'row2_isize',
+      'row3_isize',
+      'seat3_childdetection',
+      'row2_childdetection',
+      'has_active_bonnet',
+      'has_distraction_detection',
+      'has_fatigue_detection',
+      'has_lane_assist',
+      'has_speed_assist',
+      'has_aeb_vru',
+      'has_cyclistdoorprevention',
+      'has_aeb_m2w',
+      'has_aeb_cartocar'
+    ];
+
+    const boolFieldsContainer = document.getElementById('boolean-fields');
+    fields.forEach(name => {
+      const wrapper = document.createElement('div');
+      wrapper.innerHTML = `
+        <label for="${name}">${name.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}</label>
+        <select id="${name}">
+          <option value="1">Yes</option>
+          <option value="0">No</option>
+        </select>
+      `;
+      boolFieldsContainer.appendChild(wrapper);
+    });
+
+    let modelData = null;
+
+    fetch('model_export.json')
+      .then(res => res.json())
+      .then(data => {
+        modelData = data;
+      })
+      .catch(err => {
+        document.getElementById('output').innerHTML = `<div class="error">Failed to load model data.</div>`;
+        console.error(err);
+      });
+
+    function predictSample(inputRow) {
+      const vote = { high: 0, low: 0, medium: 0 };
+      for (const tree of modelData.trees) {
+        let node = 0;
+        while (true) {
+          const feature = tree.feature[node];
+          const left = tree.children_left[node];
+          const right = tree.children_right[node];
+          if (left === -1 && right === -1) {
+            const values = tree.value[node];
+            const index = values.indexOf(Math.max(...values));
+            vote[modelData.class_names[index]] += 1;
+            break;
+          }
+          if (inputRow[feature] <= tree.threshold[node]) {
+            node = left;
+          } else {
+            node = right;
+          }
+        }
+      }
+      return Object.keys(vote).reduce((a, b) => vote[a] > vote[b] ? a : b);
+    }
+
+    document.getElementById('predict').addEventListener('click', () => {
+      if (!modelData) {
+        document.getElementById('output').innerHTML = `<div class="error">Model not loaded yet.</div>`;
+        return;
+      }
+
+      const values = [
+        parseFloat(document.getElementById('kerb_weight').value),
+        ...fields.map(name => parseInt(document.getElementById(name).value, 10)),
+        parseInt(document.getElementById('protocol_version').value, 10)
+      ];
+
+      const prediction = predictSample(values);
+      document.getElementById('output').innerHTML = `
+        <div class="result">
+          <h2>Prediction</h2>
+          <p><strong>Safety category:</strong> ${prediction}</p>
+        </div>
+      `;
+    });
+  </script>
+</body>
+</html>

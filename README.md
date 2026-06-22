@@ -1,309 +1,225 @@
-# Euro NCAP Safety Rating Prediction Project
+# Euro NCAP Safety Rating Prediction
 
-This repository contains the end-to-end workflow used to collect Euro NCAP assessment data, convert it into a machine-learning-ready dataset, and train models to predict vehicle safety-star categories.
+Euro NCAP (European New Car Assessment Programme) is Europe's independent
+vehicle safety testing body. It subjects new cars to standardised crash tests
+across four domains — adult occupant protection, child occupant protection,
+vulnerable road user (VRU) protection, and safety assist systems — and awards
+a star rating from 1 to 5.
 
-## Project Goal
-
-The goal of this project is to build a predictive model that can classify vehicles into broad safety categories using Euro NCAP assessment metadata and safety equipment features.
-
-The workflow in this project follows these major stages:
-
-1. Data extraction from the Euro NCAP API
-2. Raw JSON download and storage
-3. Parsing and cleaning of assessment records
-4. Feature engineering and target creation
-5. Feature selection for model training
-6. Model experimentation and evaluation
-7. Saving the final trained model
+This project builds an end-to-end machine learning pipeline on Euro NCAP
+assessment data to predict a vehicle's broad safety category from its crash
+protection equipment and test outcomes. It also identifies which safety
+features most strongly drive the difference between 4-star and 5-star vehicles.
 
 ---
 
-## 1. Data Extraction
+## Key Results
 
-The first step starts with the API endpoints used to fetch the list of Euro NCAP assessments and the raw vehicle assessment JSON files.
+| Model | F1 Macro | Accuracy |
+|---|---|---|
+| Baseline Random Forest | 0.63 | 82.61% |
+| Balanced Random Forest (class_weight) | 0.70 | 81.52% |
+| Tuned RF via GridSearchCV | 0.66 | 83.00% |
+| SMOTE + Random Forest | 0.64 | 80.43% |
+| XGBoost | 0.66 | 82.61% |
+| XGBoost (balanced weights) | 0.66 | 82.61% |
 
-### Step 1A — Extract assessment links
 
-The notebook `ncap.ipynb` uses the Euro NCAP API to:
-
-- call the assessment listing endpoint
-- paginate through the results
-- collect assessment IDs and metadata
-- save them into `vehicle_links.json`
-
-This produces a structured list of vehicle assessment links such as:
-
-- assessment ID
-- make
-- model
-- year
-- assessment URL
-
-### Step 1B — Download raw assessment JSON files
-
-Using the saved vehicle links, the notebook downloads each assessment JSON file into the `test_data/` folder.
-
-This creates a local dataset of raw Euro NCAP assessment responses for downstream processing.
-
-### Step 1C — Optional direct download script
-
-The file `euroncap.py` provides a smaller script that downloads a specific assessment JSON response from the API and saves it locally.
-
-This script is useful when you want to fetch a specific assessment file quickly.
+**Top predictive features**
+- kerb_weight                    
+- has_lane_assist                
+- seat1_centre_lateral_airbag    
+- has_aeb_vru                    
+- has_aeb_cartocar     
 
 ---
 
-## 2. Data Parsing and Cleaning
+## Repository Structure
 
-After the raw files are collected, the notebook `ncap.ipynb` parses all JSON files and converts them into a tabular dataset.
+```
+euroncap/
+├── data/
+│   └── euroncap_cardata_masked.csv         # Full parsed dataset, all assessments
+├── models/
+│   └── euro_ncap_model.joblib      # Saved best model pipeline
+├── 01_data_collection.ipynb        # API extraction and raw JSON download
+├── 02_parsing_and_features.ipynb   # JSON → tabular dataset + feature engineering
+├── 03_modelling.ipynb              # Model experiments, evaluation, feature importance
+└── README.md
+```
+---
 
-### What happens in this stage
+## Data Source
 
-For every JSON assessment file, the project:
+Data is fetched from the Euro NCAP public API. Each vehicle assessment record
+is a nested JSON object containing:
 
-- opens the file
-- safely reads nested values using helper functions
-- maps injury colors to numeric values
-- converts equipment presence into binary features
-- extracts important metadata such as make, model, year, and star rating
+- **Per-seat injury colour ratings** — GREEN / YELLOW / ORANGE / RED across
+  body regions (head, neck, chest, pelvis, femur, tibia) for each crash test
+  type (frontal offset, full-width, side MDB, side pole, rear impact)
+- **Safety equipment inventory** — airbag types and fitment positions,
+  ISOFIX, i-Size, AEB systems, lane assist, speed assist, active bonnet
+- **Normalised domain scores** — adult occupant, child occupant, VRU,
+  safety assist (each expressed as a percentage of maximum)
+- **Protocol year** — 2017, 2022, or 2026; each protocol uses different
+  scoring thresholds and introduces new test scenarios
 
-### Important cleaning logic used
-
-- Only valid assessment records are included.
-- Missing or malformed values are handled safely.
-- Injury color labels such as GREEN, YELLOW, ORANGE, BROWN, and RED are converted to numeric severity scores.
-- Safety equipment values are converted to 1/0 indicators, where 1 means fitted as standard equipment.
-
-This produces the raw structured dataset that is later saved to:
-
-- `ncap_ml_ready.db`
-- `euroncap_cardata_masked.csv`
 
 ---
 
-## 3. Feature Engineering
+## Methodology
 
-The next stage creates the machine-learning features that will be used to train the model.
+### Target Variable
 
-### Target variable
+Euro NCAP star ratings (1–5) are collapsed into three categories to reduce
+class sparsity:
 
-The original `stars` value from Euro NCAP is converted into a simpler categorical target:
+| Stars | Category |
+|---|---|
+| 1, 2, 3 | `low` |
+| 4 | `medium` |
+| 5 | `high` |
 
-- 1, 2, 3 stars → low
-- 4 stars → medium
-- 5 stars → high
+This is stored as the `stars_category` column.
 
-This new target column is stored as `stars_category`.
+### Key Design Decisions
 
-### Protocol version feature
+**Protocol-aware colour encoding** — Injury colour ratings (GREEN → RED) are
+kept as raw strings during parsing. Ordinal encoding is applied separately
+per protocol year, because the same colour can represent a different severity
+threshold across protocol generations. This prevents silent cross-protocol
+contamination in model features.
 
-A helper function is used to map the protocol year into a simpler version bucket:
+**Protocol version bucketing** — Protocol year is mapped to three version
+buckets rather than used as a raw integer:
 
-- 2019 and earlier → 1
-- 2020 to 2021 → 2
-- 2022 to 2025 → 3
+| Protocol Year | Version Bucket |
+|---|---|
+| 2019 and earlier | 1 |
+| 2020 – 2021 | 2 |
+| 2022 and later | 3 |
 
-This generated feature is stored as `protocol_version` and added to the model input features.
+**Leakage prevention** — Normalised domain scores (e.g. `adult_norm`) are
+excluded from model features because they are direct components of the star
+rating. Only equipment presence flags and protocol version are used as inputs.
 
-### Why this stage matters
+**Dual DataFrame design** — Parsing produces two tables:
+- `df_seats` — one row per (assessment × test type × seat position),
+  preserving granular injury outcome data
+- `df_scores` — one row per assessment, with aggregated scores used for
+  modelling
 
-The model is trained on a combination of:
+### Features Used
 
-- vehicle weight
-- crash protection equipment
-- child safety features
-- active safety systems
-- protocol version
-- injury-related signals
+| Feature | Type | Description |
+|---|---|---|
+| `kerb_weight` | Numeric | Vehicle kerb weight (kg) |
+| `protocol_version` | Ordinal | Protocol generation bucket (1/2/3) |
+| `has_aeb_cartocar` | Binary | AEB car-to-car fitted as standard |
+| `has_aeb_vru` | Binary | AEB pedestrian/cyclist detection |
+| `has_lane_assist` | Binary | Lane keep assist fitted |
+| `has_speed_assist` | Binary | Speed assist system fitted |
+| `has_active_bonnet` | Binary | Active bonnet for pedestrian protection |
+| `has_fatigue_detection` | Binary | Driver fatigue monitoring |
+| `has_distraction_detection` | Binary | Driver distraction monitoring |
+| `seat1_side_chest_airbag` | Binary | Driver side chest airbag |
+| `row2_side_chest_airbag` | Binary | Rear side chest airbag |
+| `seat3_isofix` | Binary | Front passenger ISOFIX |
+| `seat1_isize` | Binary | Driver seat i-Size |
+| `row2_isize` | Binary | Rear seat i-Size |
+| `seat3_childdetection` | Binary | Child presence detection |
+| ... | | *(see notebook for full list)* |
 
-These features are chosen because they represent both structural and safety-assist information that correlate with Euro NCAP outcomes.
+### Models Trained
 
----
+All models are evaluated on a stratified 20% holdout set (random state 42)
+and validated with StratifiedKFold cross-validation (5 folds) to assess
+generalisation stability.
 
-## 4. Feature Selection
+1. **Baseline Random Forest** — 100 estimators, default settings
+2. **Balanced Random Forest** — `class_weight='balanced'` to handle uneven
+   class distribution
+3. **Tuned Random Forest** — GridSearchCV over `n_estimators`, `max_depth`,
+   `min_samples_split`, `class_weight`
+4. **SMOTE + Random Forest** — synthetic oversampling of minority classes
+   applied to training set only; test set untouched
+5. **XGBoost** — baseline gradient boosting classifier
+6. **XGBoost with balanced sample weights** — computed per class to handle
+   imbalance
 
-Feature selection in this project was done manually rather than using an automated selector.
-
-### Initial feature list
-
-The notebook defines a curated list of useful input columns such as:
-
-- `kerb_weight`
-- `seat1_knee_airbag`
-- `row2_side_chest_airbag`
-- `seat1_side_pelvis_airbag`
-- `seat3_side_pelvis_airbag`
-- `row2_side_pelvis_airbag`
-- `seat1_centre_lateral_airbag`
-- `seat3_centre_lateral_airbag`
-- `seat3_isofix`
-- `seat1_isize`
-- `seat3_isize`
-- `row2_isize`
-- `row3_isize`
-- `seat3_childdetection`
-- `row2_childdetection`
-- `has_active_bonnet`
-- `has_distraction_detection`
-- `has_fatigue_detection`
-- `has_lane_assist`
-- `has_speed_assist`
-- `has_aeb_vru`
-- `has_cyclistdoorprevention`
-- `has_aeb_m2w`
-- `has_aeb_cartocar`
-- `protocol_version`
-
-### Columns removed during selection
-
-The following columns were dropped because they were not useful or were identifiers:
-
-- `id`
-- `make`
-- `model`
-- `year`
-- `stars`
-- `protocol_year`
-- `seat_arrangement`
-- `rating_year`
-- many detailed airbag and seat-specific fields that were either redundant or not needed for the simplified model
-
-This manual feature selection keeps the model focused on the most meaningful predictors for safety-star category prediction.
+Evaluation metrics: accuracy, F1 macro, classification report per class,
+feature importance ranking.
 
 ---
 
-## 5. Train/Test Split
+## Reproduction
 
-The dataset is split into training and testing sets using `train_test_split` from scikit-learn.
+### Requirements
 
-### Split configuration
+```bash
+pip install pandas scikit-learn xgboost imbalanced-learn joblib \
+            beautifulsoup4 notebook
+```
 
-- test size: 20%
-- random state: 42
-- stratify: `y`
+### Run Order
 
-This ensures that the class distribution of the target variable is preserved in both training and test sets.
+```bash
+# Step 1 — (Optional) Re-fetch raw assessment data from Euro NCAP API
+jupyter notebook 01_data_collection.ipynb
 
-The model is trained on `X_train` and evaluated on `X_test`.
+# Step 2 — Parse raw JSONs into tabular dataset and engineer features
+jupyter notebook 02_parsing_and_features.ipynb
 
----
+# Step 3 — Train models and evaluate
+jupyter notebook 03_modelling.ipynb
+```
 
-## 6. Model Training Experiments
+The notebooks are designed to run in sequence. If you want to go straight
+to the modelling, skip to step 3 — `data/euroncap_cardata_masked.csv` is already
+included in the repository.
 
-Several experiments were performed in the notebook `model.ipynb` to assess model behavior.
+### Load the Saved Model
 
-### 6A. Baseline Random Forest
+```python
+import joblib
 
-The first experiment trains a basic Random Forest classifier.
-
-It uses:
-
-- `n_estimators=100`
-- `random_state=42`
-
-This baseline provides an initial measure of performance and helps identify whether the selected features are meaningful.
-
-### 6B. Balanced Random Forest
-
-A second version uses `class_weight='balanced'` to handle class imbalance more effectively.
-
-This is important because safety-star categories are not perfectly evenly distributed in the dataset.
-
-### 6C. Tuned Random Forest
-
-Additional experiments were run with:
-
-- `max_depth=10`
-- `min_samples_split=2` or `5`
-- `n_estimators=300`
-- `class_weight='balanced'`
-
-These variations help identify stronger settings for the classification task.
-
-### 6D. Hyperparameter tuning with GridSearchCV
-
-A grid search is also performed using `GridSearchCV` over several Random Forest parameters:
-
-- `n_estimators`
-- `max_depth`
-- `min_samples_split`
-- `class_weight`
-
-The scoring metric used is `f1_macro`, which is appropriate for multiclass performance evaluation.
-
-### 6E. SMOTE-based training
-
-To improve imbalance handling, the project also tries SMOTE (Synthetic Minority Over-sampling Technique):
-
-- resample the training set
-- train a Random Forest on the balanced training data
-- evaluate on the untouched test set
-
-This helps the model learn minority categories more effectively.
-
-### 6F. XGBoost experiments
-
-The project also tests XGBoost classifiers:
-
-- simple XGBoost classifier
-- XGBoost with class-balanced sample weights
-
-These experiments compare the performance of boosting models against Random Forests.
+model = joblib.load("models/euro_ncap_model.joblib")
+prediction = model.predict(X_new)
+```
 
 ---
 
-## 7. Evaluation and Validation
+## Limitations and Known Issues
 
-Model performance is evaluated using:
-
-- accuracy
-- classification report
-- feature importance ranking
-- F1 macro score
-
-The notebook also includes cross-validation using `StratifiedKFold` and `cross_val_score` to estimate model stability.
-
-This gives a stronger indication of whether the model is generalizing well beyond one split.
-
----
-
-## 8. Model Saving
-
-The best-performing training pipeline is saved using `joblib` into:
-
-- `euro_ncap_model.joblib`
-
-This allows the trained model to be reused for predictions without retraining from scratch.
+- **Sample size** — approximately 300–500 vehicles have full `assessmentData`
+  fields in the API. This is workable but limits model complexity; avoid
+  deep architectures or large feature spaces.
+- **Protocol comparability** — pre-2020 and post-2022 records use different
+  test scenarios and scoring thresholds. Protocol version bucketing partially
+  addresses this but cross-protocol comparison remains an approximation.
+- **Class collapse** — collapsing 5 stars into 3 categories loses
+  granularity. A regression on raw normalised scores is a natural extension
+  of this work.
+- **Equipment-only features** — the current feature set uses equipment
+  presence flags rather than granular injury outcome scores, to avoid
+  leakage. Adding carefully encoded seat-level injury features is a planned
+  improvement.
 
 ---
 
-## 9. Repository Files
+## Background and Motivation
 
-Key files in this project are:
+This project is part of a broader effort to build open-source Python tooling
+for major road safety datasets — including Euro NCAP, FARS (US), GIDAS
+(Germany), and RASSI (India). The author works in automotive crash safety
+analytics at Maruti Suzuki India and brings domain context to feature
+engineering decisions, particularly around injury biomechanics, protocol
+versioning, and what the colour-coded ATD (dummy) ratings represent in terms
+of real-world injury risk.
 
-- `euroncap.py` — simple API download helper
-- `ncap.ipynb` — full data extraction and transformation workflow
-- `model.ipynb` — model training, evaluation, and experiments
-- `vehicle_links.json` — extracted assessment links
-- `test_data/` — raw downloaded Euro NCAP assessment JSON files
-- `euroncap_cardata_masked.csv` — cleaned ML-ready table
-- `euro_ncap_model.joblib` — trained model artifact
+The domain framing matters here: this is not a generic classification
+exercise. The feature selection, target collapse, and protocol handling
+decisions are all grounded in how Euro NCAP scoring actually works, not just
+what maximises CV accuracy.
 
 ---
-
-## 10. Summary of the Full Workflow
-
-The complete process used in this repository is:
-
-1. Fetch assessment IDs and vehicle links from the Euro NCAP API.
-2. Download raw assessment JSON files.
-3. Parse the JSON files and extract safety-related features.
-4. Convert star ratings into broad safety categories.
-5. Engineer protocol and safety features for model input.
-6. Manually select the most relevant features.
-7. Split the dataset into train and test sets.
-8. Train several Random Forest and XGBoost models.
-9. Evaluate performance using classification metrics and cross-validation.
-10. Save the final model for reuse.
-
-This project combines web data collection, feature engineering, and machine learning into one structured workflow for Euro NCAP safety prediction.
